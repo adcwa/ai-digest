@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 前沿速递 · 来自 X 的最新 AI 资讯、实践与研究</title>
+  <meta name="description" content="从 X（Twitter）精选的最新 AI 资讯、一线实践案例与研究进展，中文摘要 + 原帖链接。" />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>" />
+  <link rel="stylesheet" href="assets/style.css" />
+  <script>
+    (function () {
+      var t = localStorage.getItem("theme");
+      if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="topbar">
+        <div class="brand"><span class="logo">⚡</span> AI 前沿速递</div>
+        <button id="themeToggle" class="icon-btn" aria-label="切换深色模式" title="切换深色模式">🌓</button>
+      </div>
+      <h1>每周 AI 前沿，<span class="grad">一页读懂</span></h1>
+      <p class="lead">从 X（Twitter）精选最新 <b>资讯</b>、一线 <b>实践</b> 与 <b>研究</b>，中文摘要，每条都附原帖链接。</p>
+      <p class="meta" id="meta">加载中…</p>
+      <div class="stats" id="stats"></div>
+    </div>
+  </header>
+
+  <nav class="toolbar" aria-label="筛选">
+    <div class="wrap toolbar-inner">
+      <div class="tabs" role="tablist" id="tabs"></div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="搜索标题、摘要、作者、标签…" aria-label="搜索" />
+        <select id="sort" aria-label="排序">
+          <option value="date">按日期</option>
+          <option value="likes">按热度</option>
+        </select>
+      </div>
+    </div>
+    <div class="wrap tags" id="tags"></div>
+  </nav>
+
+  <main class="wrap">
+    <p id="resultInfo" class="result-info"></p>
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>没有匹配的条目，换个关键词试试 🔍</p>
+  </main>
+
+  <footer class="wrap footer">
+    <p>内容整理自 X 公开帖子与 X 新闻汇总（Grok 生成的话题摘要可能有误，请以原帖为准）。数据文件：<a href="data/items.json">data/items.json</a></p>
+    <p>点赞数为抓取时快照。· Built with plain HTML/CSS/JS · Deploy on Vercel</p>
+  </footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

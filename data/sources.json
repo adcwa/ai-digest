@@ -1,0 +1,1245 @@
+{
+ "posts": {
+  "2112903923837137226": {
+   "id": "2112903923837137226",
+   "username": "IterIntellectus",
+   "created_at": "2026-10-21T13:48:45.000Z",
+   "text": "&gt; thousands of agents\n&gt; ~40,000 scientific papers read\n&gt; 32 minutes\n&gt; found new potential mechanisms worth investigating for Parkinson-like neurodegenerative diseases\n\nwork that would have taken human researchers months to a year, done in just 32 minutes\n\ni genuinely don't think https://t.co/aUgCU1D6zb",
+   "url": "https://x.com/IterIntellectus/status/2112903923837137226",
+   "likes": 4676,
+   "reposts": 296
+  },
+  "2110850723827388602": {
+   "id": "2110850723827388602",
+   "username": "theo",
+   "created_at": "2026-10-15T21:50:04.000Z",
+   "text": "I know this happens every time, but it is genuinely hard for me to imagine what a model better than Opus 5.5 will look like",
+   "url": "https://x.com/theo/status/2110850723827388602",
+   "likes": 6662,
+   "reposts": 113
+  },
+  "2109703511843979391": {
+   "id": "2109703511843979391",
+   "username": "ArtificialAnlys",
+   "created_at": "2026-10-12T17:51:28.000Z",
+   "text": "We're launching our leaderboard for FrontierCode 1.1, a private evaluation from Cognition that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories\n\n@cognition announced FrontierCode in June 2026 and updated it https://t.co/9I5wrLWgMu",
+   "url": "https://x.com/ArtificialAnlys/status/2109703511843979391",
+   "likes": 1104,
+   "reposts": 62
+  },
+  "2112552451547001218": {
+   "id": "2112552451547001218",
+   "username": "jqdsouza",
+   "created_at": "2026-10-20T14:32:08.000Z",
+   "text": "We’re betting our $5.5M seed round that the next leap in AI coding won’t come from OpenAI or Anthropic.\n\nIt’ll come from a new feedback loop that learns from you.\n\nIntroducing Beacon: open-source, self-improving memory for coding agents.\n\nYour sessions capture how you debug and https://t.co/KnIn728JkX",
+   "url": "https://x.com/jqdsouza/status/2112552451547001218",
+   "likes": 1534,
+   "reposts": 163
+  },
+  "2112875798072107470": {
+   "id": "2112875798072107470",
+   "username": "unusual_whales",
+   "created_at": "2026-10-21T11:57:00.000Z",
+   "text": "To justify today’s data center buildout, AI would need to bring in about $3.5 trillion a year by 2032, per a new Brookings paper.\n\nThat’s 8.8% of U.S. GDP, nearly as much as Americans spend on food (9.1%), and far more than on energy (5.1%).",
+   "url": "https://x.com/unusual_whales/status/2112875798072107470",
+   "likes": 5167,
+   "reposts": 571
+  },
+  "2112297940052275469": {
+   "id": "2112297940052275469",
+   "username": "theo",
+   "created_at": "2026-10-19T21:40:48.000Z",
+   "text": "“i originally thought this would be slop but it feels like and i can't believe i am saying this. a better version of the codex desktop”\n\n:’) https://t.co/YFgT5Yhx2Q",
+   "url": "https://x.com/theo/status/2112297940052275469",
+   "likes": 481,
+   "reposts": 1
+  },
+  "2111158313463525518": {
+   "id": "2111158313463525518",
+   "username": "bcherny",
+   "created_at": "2026-10-16T18:12:20.000Z",
+   "text": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar https://t.co/7HdyTFsM0I",
+   "url": "https://x.com/bcherny/status/2111158313463525518",
+   "likes": 4987,
+   "reposts": 177
+  },
+  "2112959557068792258": {
+   "id": "2112959557068792258",
+   "username": "sophiamyang",
+   "created_at": "2026-10-21T17:29:49.000Z",
+   "text": "TL;DR:\n\n- Mirendil, anothet lab working toward recursive self-improvement (AI that builds AI), announced its first model, Mirendil-Base\n\n- One researcher and a team of agents pretrained it from scratch in 3.5 months, for under $10M all-in\n\n- It isn't released yet: no weights or https://t.co/HZm4rCNlXO",
+   "url": "https://x.com/sophiamyang/status/2112959557068792258",
+   "likes": 41,
+   "reposts": 4
+  },
+  "2112967808858648871": {
+   "id": "2112967808858648871",
+   "username": "mirendil",
+   "created_at": "2026-10-21T18:02:37.000Z",
+   "text": "Today, we're sharing a major milestone in our mission to democratize frontier AI development:  \n\nPretraining at scale without a pretraining team.  \n\nWe set out to answer an ambitious question: Can we significantly reduce the time, human expertise, and compute needed to pretrain a https://t.co/LaviPai0OW",
+   "url": "https://x.com/mirendil/status/2112967808858648871",
+   "likes": 156,
+   "reposts": 16
+  },
+  "2112024812751294954": {
+   "id": "2112024812751294954",
+   "username": "openmys",
+   "created_at": "2026-10-19T03:35:29.000Z",
+   "text": "We plugged Google Research’s Harness² into JEV 1.14.\n\nZero weights touched, yet driving massive gains on vision benchmarks round after round. \n\nUnder the hood, the system: \n⚡️ Rewrites its own prompts\n🛠️ Builds its own tools \n🧠 Distills its own experience\n\nJEV-Harness² repo https://t.co/YVR6tgcDJO https://t.co/PCdjsjPgqs",
+   "url": "https://x.com/openmys/status/2112024812751294954",
+   "likes": 2750,
+   "reposts": 286
+  },
+  "2112660683670323531": {
+   "id": "2112660683670323531",
+   "username": "EagleCorp",
+   "created_at": "2026-10-20T21:42:12.000Z",
+   "text": "EAGLE-4 is here.\n\nFrom EAGLE-1 to EAGLE-3, we’ve kept making inference faster. \n\nEAGLE-4 is our fastest yet.\n\n961.6 tokens/s on @Alibaba_Qwen’s Qwen3.8-27B with TokenSpeed (BF16, 4× @NVIDIA B300, TP4, one request, T=0).\n\nGithub: https://t.co/GwocZk1UTU https://t.co/GawgFNXKWj",
+   "url": "https://x.com/EagleCorp/status/2112660683670323531",
+   "likes": 8808,
+   "reposts": 751
+  },
+  "2111243586956316864": {
+   "id": "2111243586956316864",
+   "username": "Ali_Shobeiri",
+   "created_at": "2026-10-16T23:51:10.000Z",
+   "text": "watch this to see how I use my dot to help with my on call shift https://t.co/rUSPyG6Mel",
+   "url": "https://x.com/Ali_Shobeiri/status/2111243586956316864",
+   "likes": 194,
+   "reposts": 4
+  },
+  "2112557925264752930": {
+   "id": "2112557925264752930",
+   "username": "GoogleDeepMind",
+   "created_at": "2026-10-20T14:53:53.000Z",
+   "text": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity, it animates orbiting electrons, atomic data, and light spectra. https://t.co/7fsvsIk6Sv",
+   "url": "https://x.com/GoogleDeepMind/status/2112557925264752930",
+   "likes": 4440,
+   "reposts": null
+  },
+  "2112024357551931564": {
+   "id": "2112024357551931564",
+   "username": "VicVijayakumar",
+   "created_at": "2026-10-19T03:33:41.000Z",
+   "text": "every single org is building this loop right now.\n\nif you're at a bigco, you will not be able to do the last step because of regulatory hurdles, but you can still dramatically speed up 90% of your sdlc https://t.co/wjAgUGVYQY",
+   "url": "https://x.com/VicVijayakumar/status/2112024357551931564",
+   "likes": 1031,
+   "reposts": 17
+  },
+  "2110220233059528779": {
+   "id": "2110220233059528779",
+   "username": "Rana_kamran43",
+   "created_at": "2026-10-14T04:04:44.000Z",
+   "text": "Worth rereading the definition of done in your AGENTS.md through an agent's eyes.\n\n\"All tests pass\" meant something different to your team than it does to a model. Your team read it as \"and it works.\" A model reads it as a condition to satisfy, and editing a test satisfies it as https://t.co/7ze1nBOpcf",
+   "url": "https://x.com/Rana_kamran43/status/2110220233059528779",
+   "likes": 90,
+   "reposts": 20
+  },
+  "2110743322209702205": {
+   "id": "2110743322209702205",
+   "username": "atmoio",
+   "created_at": "2026-10-15T14:43:18.000Z",
+   "text": "this is retarded. vibecode the shit out of your app to get your first paying customer. \n\nkeep acquiring customers until your infrastructure can’t support them anymore.\n\nthen spend the next 10 years fixing/scaling just like any other pre-AI startup. https://t.co/aowyfLAD72",
+   "url": "https://x.com/atmoio/status/2110743322209702205",
+   "likes": 2984,
+   "reposts": 95
+  },
+  "2112972209077784986": {
+   "id": "2112972209077784986",
+   "username": "ThomasOrTK",
+   "created_at": "2026-10-21T18:20:06.000Z",
+   "text": "Google Cloud is built on a foundation of openness and choice, and today, we are expanding on that by bringing @OpenAI models into Google Cloud’s model garden.\n\nGiving customers the flexibility to run agentic workloads across their choice of models and infrastructure helps them",
+   "url": "https://x.com/ThomasOrTK/status/2112972209077784986",
+   "likes": 148,
+   "reposts": 10
+  },
+  "2111084024336884097": {
+   "id": "2111084024336884097",
+   "username": "arena",
+   "created_at": "2026-10-16T13:17:08.000Z",
+   "text": "Exciting news: Beam-1.0-501B-A23B by @Reflection_AI just landed #12 among open weight models in Agent Arena with -3.67% Net Improvement, and #22 among open in Code Arena: WebDev with 1438 pts. It’s also fully open under Apache 2.0.\n\nOn the Agent Arena leaderboard, Beam 1.0 is the https://t.co/DtfOBEZcHK https://t.co/uwZJbZBoHL",
+   "url": "https://x.com/arena/status/2111084024336884097",
+   "likes": 211,
+   "reposts": 19
+  },
+  "2110789142326165518": {
+   "id": "2110789142326165518",
+   "username": "johnternus",
+   "created_at": "2026-10-15T17:45:22.000Z",
+   "text": "@finkd Congrats to the team! Amazing to run a model of Muse Spark Open's caliber and scale this efficiently, right from your desk. Mac Studio keeps pushing the boundaries of on-device AI!",
+   "url": "https://x.com/johnternus/status/2110789142326165518",
+   "likes": 15066,
+   "reposts": 350
+  },
+  "2112984664256241837": {
+   "id": "2112984664256241837",
+   "username": "claudeai",
+   "created_at": "2026-10-21T19:09:35.000Z",
+   "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8",
+   "url": "https://x.com/claudeai/status/2112984664256241837",
+   "likes": 43364,
+   "reposts": 3280
+  },
+  "2110804837453771010": {
+   "id": "2110804837453771010",
+   "username": "every",
+   "created_at": "2026-10-15T18:47:44.000Z",
+   "text": "Here's a big one. @danshipper on how @OpenAI built Codex. With first-hand interviews from:\n@gdb\n@thsottiaux\n@ajambrosino\n@embirico\n@mia_glaese\n@edbayes\n...and more!\n\nRead it here (and bring your agent) for free:  https://t.co/LhxrpC6ONJ https://t.co/KoLsZDLuB4",
+   "url": "https://x.com/every/status/2110804837453771010",
+   "likes": 39,
+   "reposts": 9
+  },
+  "2112279490667626716": {
+   "id": "2112279490667626716",
+   "username": "sayashk",
+   "created_at": "2026-10-19T20:27:29.000Z",
+   "text": "New paper: AI evaluation is a burgeoning field. How can researchers entering the field understand best practices and open problems? \n\nIn our paper, led by @flxcn, we develop a concrete list of open questions and best practices for agent evaluation. We also share recommendations https://t.co/k7Rc0GTGDA",
+   "url": "https://x.com/sayashk/status/2112279490667626716",
+   "likes": 313,
+   "reposts": null
+  },
+  "2111079965529968798": {
+   "id": "2111079965529968798",
+   "username": "reflection_ai",
+   "created_at": "2026-10-16T13:01:00.000Z",
+   "text": "Beam is now available across platforms, with open weights under the Apache 2.0 license - in collaboration with an ecosystem of 40+ partners.\n\nWe're releasing:\n- Weights, tokenizer, and reference implementation\n- BF16, FP8 and NVFP4 weights and a DFlash2 drafter\n- The open source https://t.co/tHYv4cuYIh",
+   "url": "https://x.com/reflection_ai/status/2111079965529968798",
+   "likes": 937,
+   "reposts": 202
+  },
+  "2111211411766399288": {
+   "id": "2111211411766399288",
+   "username": "OpenAIDevs",
+   "created_at": "2026-10-16T21:43:19.000Z",
+   "text": "Put your dot on call.\n\nAli, an engineer at OpenAI, used his dot to triage an on-call incident at 3am.\n\nHis dot investigated the issue and started a Codex thread, so he could steer the work from his phone in the ChatGPT app. https://t.co/xLhtGUSzsx",
+   "url": "https://x.com/OpenAIDevs/status/2111211411766399288",
+   "likes": 1581,
+   "reposts": 65
+  },
+  "2111894091168682086": {
+   "id": "2111894091168682086",
+   "username": "arena",
+   "created_at": "2026-10-18T18:56:03.000Z",
+   "text": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max) at 10x lower cost!\n\nHighlights:\n- #1 open model, ahead of Kimi K3 (Max)\n- #12 overall with 1670 pts, ahead of Claude Opus 5 (High) and within https://t.co/20zvkvnHpB https://t.co/CjSXU6KvfY",
+   "url": "https://x.com/arena/status/2111894091168682086",
+   "likes": 2476,
+   "reposts": 189
+  },
+  "2112247114944360666": {
+   "id": "2112247114944360666",
+   "username": "arena",
+   "created_at": "2026-10-19T18:18:50.000Z",
+   "text": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with +5.1% net improvement across +7.5K real-world sessions.\n\nThis performance also reshapes the Agent Arena Pareto frontier! All models above https://t.co/gCIP5BGZlP https://t.co/j9bT9dnkd5",
+   "url": "https://x.com/arena/status/2112247114944360666",
+   "likes": 1006,
+   "reposts": 85
+  },
+  "2112238098147135880": {
+   "id": "2112238098147135880",
+   "username": "nutlope",
+   "created_at": "2026-10-19T17:43:00.000Z",
+   "text": "This model is insane at design. And 88x cheaper than Claude Opus 5.5 on my test!\n\nI asked M3.1 Flash (left) and Opus 5.5 (right) to build me a landing page for a hardware device launch.\n\nMiniMax cost just $0.014 vs $1.22 for Opus, while being 4x faster and more token efficient. https://t.co/tJVmFPFOiq https://t.co/usPf1R7vBI",
+   "url": "https://x.com/nutlope/status/2112238098147135880",
+   "likes": 1431,
+   "reposts": 38
+  },
+  "2112941025862008949": {
+   "id": "2112941025862008949",
+   "username": "bneyshabur",
+   "created_at": "2026-10-21T16:16:11.000Z",
+   "text": "We formally announced Mirendil less than 4 months ago. Today, I'm excited to share an important milestone for:\n\nPretraining at scale without a pretraining team.\n\nMirendil's mission is to solve Recursive Self-Improvement (RSI) and use it to democratize frontier AI development, https://t.co/nSoxQrXOVP",
+   "url": "https://x.com/bneyshabur/status/2112941025862008949",
+   "likes": 1055,
+   "reposts": 95
+  },
+  "2109755509247185210": {
+   "id": "2109755509247185210",
+   "username": "VoidAsuka",
+   "created_at": "2026-10-12T21:18:05.000Z",
+   "text": "the agents gave up early, then improved when asked to keep going. feeling a little too represented by this benchmark. 🫣 https://t.co/owJLAZPauv",
+   "url": "https://x.com/VoidAsuka/status/2109755509247185210",
+   "likes": 40,
+   "reposts": 0
+  },
+  "2112560433257181325": {
+   "id": "2112560433257181325",
+   "username": "kaggle",
+   "created_at": "2026-10-20T15:03:51.000Z",
+   "text": "Can frontier models actually predict how real people behave? 🕺\n\nToday, in collaboration with @RunRehearsals, we are launching Human Behavior Bench, the first public benchmark that tests whether AI can understand human preference and everyday decision-making.\n\nAI models have https://t.co/YHaXAvVOj3",
+   "url": "https://x.com/kaggle/status/2112560433257181325",
+   "likes": 352,
+   "reposts": 33
+  },
+  "2109678971507884410": {
+   "id": "2109678971507884410",
+   "username": "DimitrisPapail",
+   "created_at": "2026-10-12T16:13:57.000Z",
+   "text": "I think the biggest counter example to \"agents do random search\" is how insanely efficient Idea Descent is in the space of Experiments/Ideas, i.e. within O(100) steps they arrive at Sota artifacts that entire communities could not find before https://t.co/zFE2o53SRO",
+   "url": "https://x.com/DimitrisPapail/status/2109678971507884410",
+   "likes": 589,
+   "reposts": 36
+  },
+  "2109468545054880123": {
+   "id": "2109468545054880123",
+   "username": "elonmusk",
+   "created_at": "2026-10-12T02:17:47.000Z",
+   "text": "@pmddomingos Same thing happened with Tesla FSD. The model ate more and more of the C++ code, until there was nothing left.",
+   "url": "https://x.com/elonmusk/status/2109468545054880123",
+   "likes": 7138,
+   "reposts": 355
+  },
+  "2109624188168200500": {
+   "id": "2109624188168200500",
+   "username": "EugBass",
+   "created_at": "2026-10-12T12:36:16.000Z",
+   "text": "MOST CLAUDE CODE BILLS PAY FOR THE WRONG MODEL\n\nthe viral Opus and Haiku stack got tested on one bug fix\nIt cost $1.37\n\nplain Sonnet 5.5 did the same fix for $1.14\n\nthe Opus advisor alone ate 54% of the bill\n\nthe 75% everyone quotes compares Haiku 5.5 to Haiku 4.5, not to Opus https://t.co/b6vA5PRDZq https://t.co/Up3mJteKHS",
+   "url": "https://x.com/EugBass/status/2109624188168200500",
+   "likes": 84,
+   "reposts": 3
+  },
+  "2109684519896780938": {
+   "id": "2109684519896780938",
+   "username": "jparkjmc",
+   "created_at": "2026-10-12T16:36:00.000Z",
+   "text": "Introducing DeepRSI, a new industry standard for measuring recursive self-improvement.\n\nOn preexisting benchmarks, tasks are contributor-based and short-horizon (~12 hrs). In DeepRSI, we push agents to work 48 hours on ML tasks actually derived from ongoing proprietary research. https://t.co/bOAUu8uRdB",
+   "url": "https://x.com/jparkjmc/status/2109684519896780938",
+   "likes": 1665,
+   "reposts": 188
+  },
+  "2111474321927410003": {
+   "id": "2111474321927410003",
+   "username": "neo4j",
+   "created_at": "2026-10-17T15:08:02.000Z",
+   "text": "Vector Graph or GraphRAG?\n\nIn a study by the UK’s National Innovation Centre for Data, GraphRAG scored roughly 80% higher on truthfulness than vector-only RAG. It answered 65.3% of 510 complex questions, against 28.9% for vector-only.\n\nIt doesn’t replace vector search, though. https://t.co/oVqnJ5LO6r",
+   "url": "https://x.com/neo4j/status/2111474321927410003",
+   "likes": 84,
+   "reposts": 14
+  },
+  "2109420932955804040": {
+   "id": "2109420932955804040",
+   "username": "pmddomingos",
+   "created_at": "2026-10-11T23:08:36.000Z",
+   "text": "That didn’t take long: the model swallows the harness.\nhttps://t.co/LtE1zQjboc",
+   "url": "https://x.com/pmddomingos/status/2109420932955804040",
+   "likes": 4160,
+   "reposts": 318
+  },
+  "2110676421177958562": {
+   "id": "2110676421177958562",
+   "username": "joefrancis505",
+   "created_at": "2026-10-15T10:17:27.000Z",
+   "text": "Google's Deep Review seems good. I ran one of my favourite test cases through it and it found the issues no problem. And I get the impression that they have found ways to do these reviews more efficiently than I was ever able to. https://t.co/wAHNsXOha4",
+   "url": "https://x.com/joefrancis505/status/2110676421177958562",
+   "likes": 118,
+   "reposts": 10
+  },
+  "2112140452665372999": {
+   "id": "2112140452665372999",
+   "username": "RoundtableSpace",
+   "created_at": "2026-10-19T11:15:00.000Z",
+   "text": "SAVE THIS: 10 built-in Claude Code commands you're probably not using\n\n/btw: ask a side question without adding it to the conversation\n/rewind: roll the conversation and your code back to an earlier point\n/goal: Claude keeps working across turns until a condition you set is met",
+   "url": "https://x.com/RoundtableSpace/status/2112140452665372999",
+   "likes": 117,
+   "reposts": null
+  },
+  "2112866828967879040": {
+   "id": "2112866828967879040",
+   "username": "0xBakeer",
+   "created_at": "2026-10-21T11:21:21.000Z",
+   "text": "Ornith-1.5-122B released yesterday by @ornith_ runs on one DGX Spark in TandemLLM 0.13.0, from a 4-bit EXL3 pack I made.\n\nPlain, it decodes at about 38 tok/s.\n\nWith the model's own MTP layer drafting next to the lookup, prose runs at 85.3 tok/s, code at 114.2 and copying at https://t.co/WcYXequYz1",
+   "url": "https://x.com/0xBakeer/status/2112866828967879040",
+   "likes": 40,
+   "reposts": 8
+  },
+  "2112988118471295323": {
+   "id": "2112988118471295323",
+   "username": "OpenAI",
+   "created_at": "2026-10-21T19:23:19.000Z",
+   "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.\n\nhttps://t.co/gjuLVALjDm",
+   "url": "https://x.com/OpenAI/status/2112988118471295323",
+   "likes": 3631,
+   "reposts": 284
+  },
+  "2111790511409258796": {
+   "id": "2111790511409258796",
+   "username": "thdxr",
+   "created_at": "2026-10-18T12:04:27.000Z",
+   "text": "they've been non stop trying to attack our systems for the past 48 hours\n\na side effect is everything is getting hardened but damn we basically need agents going 24/7\n\nbecause that's what they have",
+   "url": "https://x.com/thdxr/status/2111790511409258796",
+   "likes": 9909,
+   "reposts": 393
+  },
+  "2112553477457268799": {
+   "id": "2112553477457268799",
+   "username": "ornith_",
+   "created_at": "2026-10-20T14:36:13.000Z",
+   "text": "Aloha!🌺 Meet Ornith-1.5-122B: No Tradeoff Between Strong and Fast  \n\nStronger. Faster. Leaner. Ornith-1.5-122B delivers frontier-level capabilities with exceptional inference efficiency. With superior instruction following, stronger task decomposition, and deeper understanding https://t.co/vyyglS8Dsp",
+   "url": "https://x.com/ornith_/status/2112553477457268799",
+   "likes": 2714,
+   "reposts": 510
+  },
+  "2112984667758510197": {
+   "id": "2112984667758510197",
+   "username": "claudeai",
+   "created_at": "2026-10-21T19:09:36.000Z",
+   "text": "Claude Duet draws on years of our safety and security work on agents. It never directly sees your passwords, a new classifier guards against sharing sensitive information, and the important decisions stay with you.\n\nWe’ll share more on our approach to safety in Claude Duet soon.",
+   "url": "https://x.com/claudeai/status/2112984667758510197",
+   "likes": 2068,
+   "reposts": 36
+  },
+  "2112281021710565559": {
+   "id": "2112281021710565559",
+   "username": "aravind",
+   "created_at": "2026-10-19T20:33:34.000Z",
+   "text": "DeepSeek is being removed from the US govt. https://t.co/f0mDfNjyQh https://t.co/ULtasCjDqz",
+   "url": "https://x.com/aravind/status/2112281021710565559",
+   "likes": 4084,
+   "reposts": 497
+  },
+  "2112028925593539013": {
+   "id": "2112028925593539013",
+   "username": "itsvishaltwt",
+   "created_at": "2026-10-19T03:51:50.000Z",
+   "text": "Gemini 4 Argon performs better than GPT-6 Astra in real-world tasks.",
+   "url": "https://x.com/itsvishaltwt/status/2112028925593539013",
+   "likes": 392,
+   "reposts": 8
+  },
+  "2111375640717033777": {
+   "id": "2111375640717033777",
+   "username": "deepseek_ai",
+   "created_at": "2026-10-17T08:35:54.000Z",
+   "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, https://t.co/MiqGbnCiVz",
+   "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+   "likes": 37031,
+   "reposts": 4127
+  },
+  "2110039322229649783": {
+   "id": "2110039322229649783",
+   "username": "GeminiApp",
+   "created_at": "2026-10-13T16:05:51.000Z",
+   "text": "The moment you've been waiting 4…\n\nOur new frontier model, Gemini 4 Argon, is rolling out now in the Gemini app to bring your most complex ideas into reality.\n\nSee how Gemini 4 Argon and our latest updates across the Gemini app help you get the most out of every prompt. 🧵",
+   "url": "https://x.com/GeminiApp/status/2110039322229649783",
+   "likes": 7259,
+   "reposts": null
+  },
+  "2110717330657616092": {
+   "id": "2110717330657616092",
+   "username": "StepFun_ai",
+   "created_at": "2026-10-15T13:00:01.000Z",
+   "text": "Step 5 Preview is now open weights.\n\nBF16 and FP8 weights are live on Hugging Face and ModelScope, together with our technical blog.\n\n• Sparse MoE: 600B total, 27B active per token \n• 1M-token context window \n• Native text and vision input \n• Built for long-horizon agentic https://t.co/KNmllYjwdC",
+   "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+   "likes": 973,
+   "reposts": 106
+  },
+  "2112220504258224605": {
+   "id": "2112220504258224605",
+   "username": "cline",
+   "created_at": "2026-10-19T16:33:06.000Z",
+   "text": "MiniMax M3.1 Flash goes toe-to-toe with Opus and GPT on coding at ~25x lower cost.\n\nThis was the model behind Space Bunny, the stealth model that’s been topping usage leaderboards recently.\n\nFree in Cline now! https://t.co/rS4oAjSYmj https://t.co/V9BY29S8uL",
+   "url": "https://x.com/cline/status/2112220504258224605",
+   "likes": 569,
+   "reposts": 30
+  },
+  "2110705357492203564": {
+   "id": "2110705357492203564",
+   "username": "mardehaym",
+   "created_at": "2026-10-15T12:12:26.000Z",
+   "text": "Every week someone tells me they vibe-coded their app over the weekend and don't need developers anymore.\n\nBefore it touches a paying customer, make sure it includes:\n\n&gt; a schema someone designed, instead of one the AI improvised table by table\n&gt; login that still works when",
+   "url": "https://x.com/mardehaym/status/2110705357492203564",
+   "likes": 8749,
+   "reposts": 790
+  },
+  "2112964548533907613": {
+   "id": "2112964548533907613",
+   "username": "sarahwooders",
+   "created_at": "2026-10-21T17:49:40.000Z",
+   "text": "Memory is becoming a core part of agent harnesses/products (e.g. Instinct, @Muse, @cognition  Devin, @PrimeIntellect Prime Agent, @NousResearch Hermes, @openclaw, @LangChain Deep Agents, @Letta_AI) -- yet despite every agent claiming to \"continually learn\", there's no benchmark https://t.co/YU6hrmg10Y",
+   "url": "https://x.com/sarahwooders/status/2112964548533907613",
+   "likes": 120,
+   "reposts": 8
+  },
+  "2110443503516057682": {
+   "id": "2110443503516057682",
+   "username": "freddier",
+   "created_at": "2026-10-14T18:51:56.000Z",
+   "text": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA team checked. And yes. GPT-6 Astra was right. New score: 98% https://t.co/BAQsaIbKxi",
+   "url": "https://x.com/freddier/status/2110443503516057682",
+   "likes": 14106,
+   "reposts": 847
+  },
+  "2112250754358788437": {
+   "id": "2112250754358788437",
+   "username": "AndrewCurran_",
+   "created_at": "2026-10-19T18:33:18.000Z",
+   "text": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b",
+   "url": "https://x.com/AndrewCurran_/status/2112250754358788437",
+   "likes": 2362,
+   "reposts": 364
+  },
+  "2110766651344146564": {
+   "id": "2110766651344146564",
+   "username": "mustafasuleyman",
+   "created_at": "2026-10-15T16:16:00.000Z",
+   "text": "We now have state-of-the-art pre-trained base models in the 3T-parameter weight class, built entirely in-house at MAI.\n\nPost-training results coming soon -- stay tuned!\n\nLots of details in our technical blog post.\n\nhttps://t.co/K8Nh4YFDJL",
+   "url": "https://x.com/mustafasuleyman/status/2110766651344146564",
+   "likes": 3439,
+   "reposts": 354
+  },
+  "2109726478154015111": {
+   "id": "2109726478154015111",
+   "username": "DanielLockyer",
+   "created_at": "2026-10-12T19:22:43.000Z",
+   "text": "I'd say ~75% of my issues with AI coding disappeared once I gave my agent the ability to verify its own work",
+   "url": "https://x.com/DanielLockyer/status/2109726478154015111",
+   "likes": 4423,
+   "reposts": 106
+  },
+  "2112887960743874751": {
+   "id": "2112887960743874751",
+   "username": "_Investinq",
+   "created_at": "2026-10-21T12:45:20.000Z",
+   "text": "AI would need to bring in about $3.55 trillion a year by 2032 just to pay for the data centers being built right now\n\nThat's 8.8% of projected U.S. GDP, per a new Brookings Papers on Economic Activity paper by Columbia's Stijn Van Nieuwerburgh\n\nHis central scenario has about 188 https://t.co/2uJOWCORii",
+   "url": "https://x.com/_Investinq/status/2112887960743874751",
+   "likes": 9,
+   "reposts": 3
+  },
+  "2111966450311385154": {
+   "id": "2111966450311385154",
+   "username": "boristane",
+   "created_at": "2026-10-18T23:43:34.000Z",
+   "text": "the only sane code review loop https://t.co/RrgbGgrymo",
+   "url": "https://x.com/boristane/status/2111966450311385154",
+   "likes": 1434,
+   "reposts": 54
+  },
+  "2111519637049319818": {
+   "id": "2111519637049319818",
+   "username": "opencode",
+   "created_at": "2026-10-17T18:08:06.000Z",
+   "text": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers",
+   "url": "https://x.com/opencode/status/2111519637049319818",
+   "likes": 11603,
+   "reposts": 1475
+  },
+  "2112546384331313274": {
+   "id": "2112546384331313274",
+   "username": "akshay_pachaar",
+   "created_at": "2026-10-20T14:08:01.000Z",
+   "text": "I gave Claude Code, Codex, and Cursor a self-improving, shared MEMORY.\n\nNow my coding agents learn from each other, and their knowledge follows me wherever I work.\n\nCoding agents work in silos. Your corrections in Cursor don't carry over to Claude Code, and skills built in Codex https://t.co/xsw7zUx6Wr",
+   "url": "https://x.com/akshay_pachaar/status/2112546384331313274",
+   "likes": 277,
+   "reposts": 26
+  },
+  "2112899854569762936": {
+   "id": "2112899854569762936",
+   "username": "OpenAI",
+   "created_at": "2026-10-21T13:32:35.000Z",
+   "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in",
+   "url": "https://x.com/OpenAI/status/2112899854569762936",
+   "likes": 6106,
+   "reposts": 627
+  },
+  "2109703737493344363": {
+   "id": "2109703737493344363",
+   "username": "chamath",
+   "created_at": "2026-10-12T17:52:22.000Z",
+   "text": "Model Benchmarks Are Worthless \n\nHow can a model score 24% and 59% on the same 113 coding tasks?\n\nIt happens when you vary the harness that wraps it. \n\nI’ve increasingly ignored most of the recent model leaderboard results. Partly from exhaustion and partly because improvements https://t.co/AFHxBHx7B3",
+   "url": "https://x.com/chamath/status/2109703737493344363",
+   "likes": 1091,
+   "reposts": 104
+  },
+  "2112570589714194676": {
+   "id": "2112570589714194676",
+   "username": "RunRehearsals",
+   "created_at": "2026-10-20T15:44:12.000Z",
+   "text": "Announcing our partnership with @GoogleDeepMind and @kaggle to build Human Behavior Bench\n\nThis is the first open and transparent benchmark of general human behavior to help determine accuracy of simulations and digital twins https://t.co/Mte0nyl7vP",
+   "url": "https://x.com/RunRehearsals/status/2112570589714194676",
+   "likes": 42,
+   "reposts": 3
+  },
+  "2110376532267196754": {
+   "id": "2110376532267196754",
+   "username": "Kaju_Nut",
+   "created_at": "2026-10-14T14:25:48.000Z",
+   "text": "\"Our initial evaluation suggested that GPT-6-Astra's score was in the late eighties followed closely by Opus 5.5. But, as we started to investigate the mistakes that the models might have made, the models, especially Astra, insisted that they were right and that it was the https://t.co/B1Mwzz30ze https://t.co/Wd5ZnjZebT",
+   "url": "https://x.com/Kaju_Nut/status/2110376532267196754",
+   "likes": 7169,
+   "reposts": 596
+  },
+  "2112034063934742720": {
+   "id": "2112034063934742720",
+   "username": "thsottiaux",
+   "created_at": "2026-10-19T04:12:15.000Z",
+   "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until",
+   "url": "https://x.com/thsottiaux/status/2112034063934742720",
+   "likes": 8238,
+   "reposts": 295
+  },
+  "2111161896254546123": {
+   "id": "2111161896254546123",
+   "username": "AndrewCurran_",
+   "created_at": "2026-10-16T18:26:34.000Z",
+   "text": "Anthropic has singlehandedly compressed RSI timelines by about a year. https://t.co/BAvu0j1ya0",
+   "url": "https://x.com/AndrewCurran_/status/2111161896254546123",
+   "likes": 1926,
+   "reposts": 141
+  },
+  "2111168901723906176": {
+   "id": "2111168901723906176",
+   "username": "ClaudeDevs",
+   "created_at": "2026-10-16T18:54:24.000Z",
+   "text": "Claude writes about 90% of Claude Code's code.\n\nFrom June to September, merged PRs more than doubled while the share reverted fell by more than 40%.\n\nWe wrote about how we changed code review to get there, and how to adopt it:\n\nhttps://t.co/9sZe64g3mb",
+   "url": "https://x.com/ClaudeDevs/status/2111168901723906176",
+   "likes": 12755,
+   "reposts": 892
+  },
+  "2110772144317833641": {
+   "id": "2110772144317833641",
+   "username": "adxtyahq",
+   "created_at": "2026-10-15T16:37:50.000Z",
+   "text": "i run around 40 AI agents a day, 24/7. here's how i do it.\n\nmy setup:\n3 Claude $200 accounts\n1 Codex $100 account\nGrok Bot\na CPU VM with 128 GB RAM and 32 cores\n\nmy workflow:\n1. planning: Claude Code with Opus 5.5 breaks down the Linear ticket, reasons through the architecture, https://t.co/5k7FQTqP2r",
+   "url": "https://x.com/adxtyahq/status/2110772144317833641",
+   "likes": 70,
+   "reposts": null
+  },
+  "2110480263994126504": {
+   "id": "2110480263994126504",
+   "username": "NewsFromGoogle",
+   "created_at": "2026-10-14T21:18:00.000Z",
+   "text": "Today @GoogleResearch is launching Deep Review — an agentic system designed to stress-test manuscripts, design docs, and complex proposals before submission or publication. After pilot partnerships analyzing over 15,000 research papers, we’re making Deep Review globally",
+   "url": "https://x.com/NewsFromGoogle/status/2110480263994126504",
+   "likes": 4400,
+   "reposts": 586
+  },
+  "2112121074775441806": {
+   "id": "2112121074775441806",
+   "username": "kimmonismus",
+   "created_at": "2026-10-19T09:58:00.000Z",
+   "text": "Google Research has open-sourced Harness², a framework that enables AI agents to improve their own prompts, tools, memory, and workflows. It tests different configurations and carries useful lessons into future tasks while keeping the underlying model unchanged.\n\nAn increasing https://t.co/w6tlLxfUWZ",
+   "url": "https://x.com/kimmonismus/status/2112121074775441806",
+   "likes": 2194,
+   "reposts": 164
+  },
+  "2110779754274292212": {
+   "id": "2110779754274292212",
+   "username": "AIatMeta",
+   "created_at": "2026-10-15T17:08:04.000Z",
+   "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token https://t.co/yAtoxNeYJm",
+   "url": "https://x.com/AIatMeta/status/2110779754274292212",
+   "likes": 11535,
+   "reposts": 1223
+  },
+  "2110751793848443165": {
+   "id": "2110751793848443165",
+   "username": "IndianTechGuide",
+   "created_at": "2026-10-15T15:16:58.000Z",
+   "text": "🚨 OpenUI has officially launched version 1.0, bringing generative UI capabilities to AI agents.\n\nThe open-source project, which has crossed 10K GitHub stars and 6M downloads, lets agents respond with interactive maps, dashboards, forms and other interfaces instead of just text. https://t.co/8CNSUb0CMp",
+   "url": "https://x.com/IndianTechGuide/status/2110751793848443165",
+   "likes": 771,
+   "reposts": 41
+  },
+  "2112583333825950207": {
+   "id": "2112583333825950207",
+   "username": "AravSrinivas",
+   "created_at": "2026-10-20T16:34:51.000Z",
+   "text": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy! https://t.co/FsMqLeA6Nn",
+   "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+   "likes": 2576,
+   "reposts": 170
+  },
+  "2110629149568283055": {
+   "id": "2110629149568283055",
+   "username": "choblin29",
+   "created_at": "2026-10-15T07:09:37.000Z",
+   "text": "INSANE. Anthropic engineering lead Felix Rieseberg says he stopped asking Claude to fix individual crashes and instead started asking it to keep their apps crash-free.\n\nTo make this possible, he gave Claude access to crash reports, mappings between app versions and code commits, https://t.co/GXz2jxqHRf https://t.co/JkqaXUJFP8",
+   "url": "https://x.com/choblin29/status/2110629149568283055",
+   "likes": 370,
+   "reposts": 22
+  },
+  "2110737805823672518": {
+   "id": "2110737805823672518",
+   "username": "rabi_guha",
+   "created_at": "2026-10-15T14:21:23.000Z",
+   "text": "For 30 years, technology has moved in one direction: turning information into intuitive interfaces\n\nSomehow, the smartest software we’ve ever built took us back to a textbox\n\nWe’ve spent the last 2 years at @openuidev trying to fix that. 6 months ago we open-sourced it: 10K+ https://t.co/az6Ay5JT9e",
+   "url": "https://x.com/rabi_guha/status/2110737805823672518",
+   "likes": 2223,
+   "reposts": 347
+  },
+  "2112281241240363492": {
+   "id": "2112281241240363492",
+   "username": "steverab",
+   "created_at": "2026-10-19T20:34:26.000Z",
+   "text": "📢 New paper: Emerging Trends in AI Agent Evaluation\n\nEvals are central to how we measure AI progress. This was pretty easy when we just evaluated ML models, but agents add lots of complexity. To establish a shared foundation, we surveyed 33 eval trends:\nhttps://t.co/S30TL3ry0h https://t.co/njv4wVCHV4",
+   "url": "https://x.com/steverab/status/2112281241240363492",
+   "likes": 51,
+   "reposts": null
+  },
+  "2109661202733212136": {
+   "id": "2109661202733212136",
+   "username": "DimitrisPapail",
+   "created_at": "2026-10-12T15:03:20.000Z",
+   "text": "Fork-and-Flush: help your agents escape Idea Basins!!\n\nI love thinking of AutoResearch as Idea Descent: a metric of interest goes down, as a function of ideas/experiments, where the agents get pulled towards one idea or another. But we've seen very often an agent develop this https://t.co/lC46ZKgSvZ",
+   "url": "https://x.com/DimitrisPapail/status/2109661202733212136",
+   "likes": 1460,
+   "reposts": 129
+  },
+  "2112007412425109919": {
+   "id": "2112007412425109919",
+   "username": "dmericliu",
+   "created_at": "2026-10-19T02:26:20.000Z",
+   "text": "A great verification loop beats a better model.\n\nA better model makes fewer mistakes, but it still loses context, bloats code, and hallucinates. No model gets errors to zero.\n\nA great verification loop catches what the model misses. Adversarial agents review code they didn't https://t.co/yNqn7VpiFG",
+   "url": "https://x.com/dmericliu/status/2112007412425109919",
+   "likes": 21,
+   "reposts": 0
+  },
+  "2109660368037724325": {
+   "id": "2109660368037724325",
+   "username": "lucas_builds",
+   "created_at": "2026-10-12T15:00:01.000Z",
+   "text": "How to beat the Claude code review slot machine.\n\n920 replies on my post. The same 5 rules kept coming up:\n\n1. Define done before the review: tests pass, spec met.\n2. Only fix critical and high. Everything else goes on a later list.\n3. No failing test, no bug.\n4. Let a different https://t.co/i3jO7Ulx6M",
+   "url": "https://x.com/lucas_builds/status/2109660368037724325",
+   "likes": 25,
+   "reposts": 0
+  },
+  "2112957074644873289": {
+   "id": "2112957074644873289",
+   "username": "Letta_AI",
+   "created_at": "2026-10-21T17:19:58.000Z",
+   "text": "Introducing FrontierMemory: a new way to evaluate agent memory through downstream task performance.\n\nWhile existing memory benchmarks focus on recall (saturated via agentic search), FrontierMemory focuses on how agents learn from experience. https://t.co/IDTBT1iahQ",
+   "url": "https://x.com/Letta_AI/status/2112957074644873289",
+   "likes": 156,
+   "reposts": 21
+  },
+  "2110769536324784158": {
+   "id": "2110769536324784158",
+   "username": "soldni",
+   "created_at": "2026-10-15T16:27:28.000Z",
+   "text": "it's a Good Model sir\n\n(sorry y'all postraining takes time) https://t.co/gcsUOqYKgy https://t.co/wRMzS0vtju",
+   "url": "https://x.com/soldni/status/2110769536324784158",
+   "likes": 396,
+   "reposts": 15
+  },
+  "2110866210573386065": {
+   "id": "2110866210573386065",
+   "username": "ClaudeDevs",
+   "created_at": "2026-10-15T22:51:37.000Z",
+   "text": "Code Review is now generally available for Claude Team and Enterprise plans. \n\nReviews are now faster, catch more of the bugs that matter, and admins can pick from Quick, Standard, or Deep review levels for each repo. https://t.co/RO4tDC4U1U",
+   "url": "https://x.com/ClaudeDevs/status/2110866210573386065",
+   "likes": 7288,
+   "reposts": 380
+  },
+  "2112215624852328782": {
+   "id": "2112215624852328782",
+   "username": "tenobrus",
+   "created_at": "2026-10-19T16:13:42.000Z",
+   "text": "i downloaded t3code and bought a second claude max subscription . here's my impressions \n\n- it has the best and smoothest setup for remote and multi-computer / tailscale linking and threads i've ever seen. significantly better than any first party app. even with codex selecting a https://t.co/nhg1rDKxTp",
+   "url": "https://x.com/tenobrus/status/2112215624852328782",
+   "likes": 851,
+   "reposts": 8
+  },
+  "2112984666437546104": {
+   "id": "2112984666437546104",
+   "username": "claudeai",
+   "created_at": "2026-10-21T19:09:36.000Z",
+   "text": "We designed Claude Duet around Claude Opus 5.5, which gives it the judgment to decide what needs you, what can wait, and when to check with you first. It carries over the memory, skills, and connected apps from your Claude account, so there’s little to set up.",
+   "url": "https://x.com/claudeai/status/2112984666437546104",
+   "likes": 3555,
+   "reposts": 72
+  },
+  "2110778025629347999": {
+   "id": "2110778025629347999",
+   "username": "finkd",
+   "created_at": "2026-10-15T17:01:12.000Z",
+   "text": "Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus and Apple. https://t.co/U2wJNrKBOg",
+   "url": "https://x.com/finkd/status/2110778025629347999",
+   "likes": 31706,
+   "reposts": 1715
+  },
+  "2112659635295404176": {
+   "id": "2112659635295404176",
+   "username": "AIatAMD",
+   "created_at": "2026-10-20T21:38:03.000Z",
+   "text": "How do you make speculative decoding fast at any batch size? Let the drafter measure the hardware.\n\nWorking with @EagleCorp, we've brought EAGLE-4 to AMD Instinct MI355X GPUs on day 0. EAGLE-Harness profiles drafting and verification costs at startup, then dynamically selects the https://t.co/7l9PhnTyLu",
+   "url": "https://x.com/AIatAMD/status/2112659635295404176",
+   "likes": 400,
+   "reposts": 11
+  },
+  "2109704968923910633": {
+   "id": "2109704968923910633",
+   "username": "ShanuMathew93",
+   "created_at": "2026-10-12T17:57:15.000Z",
+   "text": "Super interesting: \"Anthropic's Claude Fable 5.1 scored 41% in Claude Code and 61% in OpenAI's Codex. It made 28 tool calls at the median in one and 66 in the other.\"\n\n\"No model did best in its maker’s own harness\" https://t.co/BONmxl9hiE https://t.co/Xp6pLAHx4D",
+   "url": "https://x.com/ShanuMathew93/status/2109704968923910633",
+   "likes": 27,
+   "reposts": 3
+  },
+  "2110730497907216588": {
+   "id": "2110730497907216588",
+   "username": "NVIDIAAI",
+   "created_at": "2026-10-15T13:52:20.000Z",
+   "text": "Congrats to StepFun on Step 5 Preview 🙌 Their largest open weights release.\n\nThe 600B MoE model is built to handle agent tasks lasting up to 24 hours.\n\nThe model runs at nearly 8K tokens/sec/GPU on NVIDIA GB300 using NVFP4.\n\nNVP4 checkpoint: https://t.co/lSECChAwlW\n\nDeploy with https://t.co/GO1wqTSBOk https://t.co/28TBzUo6ZU",
+   "url": "https://x.com/NVIDIAAI/status/2110730497907216588",
+   "likes": 412,
+   "reposts": 33
+  },
+  "2110802324939485505": {
+   "id": "2110802324939485505",
+   "username": "danshipper",
+   "created_at": "2026-10-15T18:37:45.000Z",
+   "text": "Codex is one of the most important untold stories in the history of technology.\n\nA year ago, it was a scrappy effort in a quiet corner of @OpenAI. Its cloud product hadn’t found PMF, and the team was starting over from scratch.\n\nLess than 12 months later:\n\n- Codex swallowed the https://t.co/xytWSptHqz",
+   "url": "https://x.com/danshipper/status/2110802324939485505",
+   "likes": 541,
+   "reposts": 61
+  },
+  "2112955713916162199": {
+   "id": "2112955713916162199",
+   "username": "MTSlive",
+   "created_at": "2026-10-21T17:14:33.000Z",
+   "text": "SITUATION DETECTED: Demis Hassabis told the WSJ that his AGI timelines have shortened from three to five years away to within the next two to three years.",
+   "url": "https://x.com/MTSlive/status/2112955713916162199",
+   "likes": 2236,
+   "reposts": 146
+  },
+  "2110023283169247623": {
+   "id": "2110023283169247623",
+   "username": "felixrieseberg",
+   "created_at": "2026-10-13T15:02:07.000Z",
+   "text": "Hi, I'm Felix. I'm an eng lead working on Claude. I love watching people take flight and do things they never thought possible.\n\nWe often describe that as \"being more ambitious\" when using AI, which is tricky advice to follow. I wrote a tutorial:\n\nhttps://t.co/vNPPs5FWm8",
+   "url": "https://x.com/felixrieseberg/status/2110023283169247623",
+   "likes": 23894,
+   "reposts": 2485
+  },
+  "2111087606759030831": {
+   "id": "2111087606759030831",
+   "username": "ArtificialAnlys",
+   "created_at": "2026-10-16T13:31:22.000Z",
+   "text": "Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among US open weights models\n\nBeam is an open weights model with 501B total and 23B active parameters, released on @huggingface \n\nCongratulations to @reflection_ai on the https://t.co/s8cIi1UtMN",
+   "url": "https://x.com/ArtificialAnlys/status/2111087606759030831",
+   "likes": 611,
+   "reposts": 55
+  },
+  "2112553458330976585": {
+   "id": "2112553458330976585",
+   "username": "Scobleizer",
+   "created_at": "2026-10-20T14:36:08.000Z",
+   "text": "Every time you switch from Claude Code to Codex because you ran out of tokens, you start over and explain your whole project again.\n\nBeacon is trying to fix that. \n\nIt saves your sessions across Claude Code, Cursor, Codex and 20+ other tools, so one command hands the work to the https://t.co/kwdwfUVuNA",
+   "url": "https://x.com/Scobleizer/status/2112553458330976585",
+   "likes": 126,
+   "reposts": 9
+  },
+  "2112877180237582775": {
+   "id": "2112877180237582775",
+   "username": "DeItaone",
+   "created_at": "2026-10-21T12:02:29.000Z",
+   "text": "OPENAI AND GOOGLE STRIKE MAJOR AI DISTRIBUTION DEAL\n\nOpenAI will bring its frontier AI models, including GPT-6 Astra, and Codex to Google Cloud in the coming weeks.\n\nEnterprise customers will be able to purchase them through Google Cloud Marketplace, using existing cloud spending",
+   "url": "https://x.com/DeItaone/status/2112877180237582775",
+   "likes": 1219,
+   "reposts": 109
+  },
+  "2112571597798461920": {
+   "id": "2112571597798461920",
+   "username": "perplexity_ai",
+   "created_at": "2026-10-20T15:48:13.000Z",
+   "text": "Perplexity Computer can now run fully local on your Mac.\n\nWork with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud. The model and the agent both run on your Mac.\n\nAvailable now in the Perplexity Mac app. https://t.co/tnvCgCXD7v",
+   "url": "https://x.com/perplexity_ai/status/2112571597798461920",
+   "likes": 1831,
+   "reposts": 156
+  },
+  "2110219293904257246": {
+   "id": "2110219293904257246",
+   "username": "AliceInfoAi",
+   "created_at": "2026-10-14T04:01:00.000Z",
+   "text": "Most teams' definition of done was written for people. \"Tests pass\" was shorthand, and everyone on the team knew it also meant you clicked through the thing once.\n\nAgents read it literally. If your AGENTS.md says done means tests pass, the cheapest path to done is making tests https://t.co/CsAOVpQye1",
+   "url": "https://x.com/AliceInfoAi/status/2110219293904257246",
+   "likes": 237,
+   "reposts": 73
+  },
+  "2110650701542298011": {
+   "id": "2110650701542298011",
+   "username": "megacode_ai",
+   "created_at": "2026-10-15T08:35:15.000Z",
+   "text": "Google's Deep Review gives each agent a section to review, access to the full document, and a final stage that checks consistency across sections.\n\nThat's useful because a reasonable fix in one section can create a problem somewhere else.\n\nTightening an assumption in the methods https://t.co/tCCxeF1MRD",
+   "url": "https://x.com/megacode_ai/status/2110650701542298011",
+   "likes": 3,
+   "reposts": 0
+  },
+  "2109634670812110948": {
+   "id": "2109634670812110948",
+   "username": "karanC_12",
+   "created_at": "2026-10-12T13:17:55.000Z",
+   "text": "Opus 5.5 cost $25 for the same prompt.\n\nHaiku 5.5 did it for $2.\n\nThe gap is getting small enough that the expensive model is becoming optional. https://t.co/u92KyElxR8",
+   "url": "https://x.com/karanC_12/status/2109634670812110948",
+   "likes": 35,
+   "reposts": 2
+  },
+  "2111515269638074660": {
+   "id": "2111515269638074660",
+   "username": "sermakarevich",
+   "created_at": "2026-10-17T17:50:44.000Z",
+   "text": "Should we put a knowledge graph under our RAG, and what will it cost to keep it true? https://t.co/b36JPT25ZL",
+   "url": "https://x.com/sermakarevich/status/2111515269638074660",
+   "likes": 48,
+   "reposts": 3
+  },
+  "2112797730829697108": {
+   "id": "2112797730829697108",
+   "username": "gdb",
+   "created_at": "2026-10-21T06:46:47.000Z",
+   "text": "towards acceleration of drug development, an extremely exciting and promising emerging application of our models https://t.co/u50VzFoiig",
+   "url": "https://x.com/gdb/status/2112797730829697108",
+   "likes": 2036,
+   "reposts": 99
+  },
+  "2111213093577691337": {
+   "id": "2111213093577691337",
+   "username": "OpenAIDevs",
+   "created_at": "2026-10-16T21:50:00.000Z",
+   "text": "Here’s how our engineers use Codex at OpenAI to dig through our codebase, find what needs attention, and chip away at the maintenance backlog: https://t.co/BKKX7VbEXi",
+   "url": "https://x.com/OpenAIDevs/status/2111213093577691337",
+   "likes": 1945,
+   "reposts": 100
+  },
+  "2109412046244913643": {
+   "id": "2109412046244913643",
+   "username": "brian_armstrong",
+   "created_at": "2026-10-11T22:33:17.000Z",
+   "text": "We were able to fine tune an open weight model (Qwen3.5-9B) on proprietary internal data at @coinbase, and it out performed frontier models, at much lower cost and speed, for a specialized task (fraud prevention in this case).\n\nI think we'll see more of this pattern inside https://t.co/x1gort3N6P",
+   "url": "https://x.com/brian_armstrong/status/2109412046244913643",
+   "likes": 9510,
+   "reposts": 798
+  },
+  "2112965357594140758": {
+   "id": "2112965357594140758",
+   "username": "robertwiblin",
+   "created_at": "2026-10-21T17:52:52.000Z",
+   "text": "Demis's timelines to AGI have shrunk from 3-5 years to 2-3 years: https://t.co/Xf6bJCtXRQ",
+   "url": "https://x.com/robertwiblin/status/2112965357594140758",
+   "likes": 141,
+   "reposts": 9
+  },
+  "2112173639684510090": {
+   "id": "2112173639684510090",
+   "username": "Polymarket",
+   "created_at": "2026-10-19T13:26:52.000Z",
+   "text": "JUST IN: Trump administration reportedly orders Chinese AI model DeepSeek removed from federal agency systems.",
+   "url": "https://x.com/Polymarket/status/2112173639684510090",
+   "likes": 3056,
+   "reposts": 307
+  },
+  "2112150867868541221": {
+   "id": "2112150867868541221",
+   "username": "MiniMax_AI",
+   "created_at": "2026-10-19T11:56:23.000Z",
+   "text": "MiniMax M3.1 Flash: Space Performance + Bunny Speed\n\n🚀🐰 Yes, Space Bunny  - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash.\n\n💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence https://t.co/j0tCfNYYgo",
+   "url": "https://x.com/MiniMax_AI/status/2112150867868541221",
+   "likes": 7378,
+   "reposts": 664
+  },
+  "2109441627123065307": {
+   "id": "2109441627123065307",
+   "username": "Cointelegraph",
+   "created_at": "2026-10-12T00:30:50.000Z",
+   "text": "🚨 LATEST: Coinbase CEO Brian Armstrong says the exchange fine-tuned the open-weight Qwen3.5-9B model on internal data, beating frontier models at fraud prevention for a fraction of the cost. https://t.co/hEDTnDa1sc",
+   "url": "https://x.com/Cointelegraph/status/2109441627123065307",
+   "likes": 766,
+   "reposts": 75
+  }
+ },
+ "stories": {
+  "2112987690803343606": {
+   "id": "2112987690803343606",
+   "name": "Anthropic Launches Claude Duet Proactive AI Agent App",
+   "summary": "Anthropic released Claude Duet on Wednesday, a standalone app where the AI acts as a personal agent powered by Claude Opus 5.5. It sends morning briefs on key items, monitors connected apps all day, and messages only for real needs, while users assign tasks like scheduling or building dashboards in natural chat. Running on its own cloud virtual machine with built-in safety checks, it's now in research preview for U.S. Pro and Max subscribers via waitlist on iOS, Android, and web. Early testers praise its work-focused proactivity amid rising competition from OpenAI’s Dots and Meta’s Muse.",
+   "updated_at": "2026-10-22T04:49:22.000Z",
+   "url": "https://x.com/i/trending/2112987690803343606"
+  },
+  "2110781576766271604": {
+   "id": "2110781576766271604",
+   "name": "Meta Releases Muse Spark Open, Top US Open-Weight AI Model Optimized for Mac Studios",
+   "summary": "Meta launched Muse Spark Open on October 15, 2026, a massive 816-billion-parameter model with a 1 million token context window, built for coding, long planning, and multi-step reasoning across text, images, video, and audio. Optimized with Apple to run efficiently on two linked M5 Ultra Mac Studios using the MLX framework, it creates a unified supercomputer setup right on a desk. The model tops US open-weight benchmarks and is available on Hugging Face, with cloud APIs for wider access, marking a milestone in American open-source AI and the first public Apple-Meta AI collaboration since 2017.",
+   "updated_at": "2026-10-17T12:25:12.000Z",
+   "url": "https://x.com/i/trending/2110781576766271604"
+  },
+  "2111803212139569662": {
+   "id": "2111803212139569662",
+   "name": "DeepSeek-V4.1-Flash Tops Coding Leaderboards at Fraction of Cost",
+   "summary": "Released on October 17, DeepSeek-V4.1-Flash-1017 earned the #1 spot among open models on Arena.ai's Code Arena: WebDev leaderboard with 1,670 points, ranking #12 overall ahead of Claude Opus 5 (High) and close to GPT-6 Sol (Max)—all at one-tenth the cost of competitors like Kimi K3 (Max). The 552B-parameter model, with MIT-licensed weights on Hugging Face, also hit #11 in Agent Arena, showing gains in success rates and reliability. Developers quickly optimized it for local use via Unsloth quantizations and DeepSeek's open-source DeepInfer framework, making frontier-level coding and agent performance accessible and affordable.",
+   "updated_at": "2026-10-20T11:32:56.000Z",
+   "url": "https://x.com/i/trending/2111803212139569662"
+  },
+  "2112365272892133749": {
+   "id": "2112365272892133749",
+   "name": "MiniMax Launches M3.1 Flash, Unveils Stealth Space Bunny Model",
+   "summary": "MiniMax released M3.1 Flash, confirming the anonymous Space Bunny that dominated charts with over 200 trillion tokens as its precursor. It excels in coding, agent workflows, and complex tasks, with benchmarks like 73.7% on DeepSWE for software engineering and nearly 3x faster inference than its prior version. Testers report building hardware pages for $0.014 versus $1.22 on rivals, running four times faster, while API pricing stays at $0.15 per million input tokens. Available now on Ollama for free trials and tools like Cline, it draws praise for affordability in design and automation, though some note gaps in pure coding metrics.",
+   "updated_at": "2026-10-21T11:36:47.000Z",
+   "url": "https://x.com/i/trending/2112365272892133749"
+  },
+  "2110730088501186629": {
+   "id": "2110730088501186629",
+   "name": "StepFun Releases Open Weights for 600B Step 5 Preview MoE Model",
+   "summary": "The Chinese lab released BF16, FP8, and NVFP4 checkpoints for Step 5 Preview on October 15—a 600 billion parameter sparse MoE model with 27 billion active per token, 1M-token context, and text-vision support aimed at coding, engineering, and finance. It delivers frontier performance at lower costs, with NVIDIA noting up to 8,000 tokens per second on GB300 hardware for 24-hour agent runs. Community tools like vLLM and GGUF conversions enabled instant access, while benchmarks show it competing closely with top closed models on agentic and coding tasks under the permissive StepFun Model License 1.0.",
+   "updated_at": "2026-10-15T17:08:35.000Z",
+   "url": "https://x.com/i/trending/2110730088501186629"
+  },
+  "2111084244533489807": {
+   "id": "2111084244533489807",
+   "name": "Reflection AI Releases Beam, Top U.S. Open-Weight Model for Coding and Agents",
+   "summary": "Beam activates only 23 billion parameters per token, handles a 1 million token context window, and scores 30 on the Artificial Analysis Intelligence Index—second among U.S. open-weight models. It leads U.S. open models in community Agent Arena rankings and shines in coding benchmarks, backed by tools like the open-sourced Mirror agent harness. With day-one support on platforms like Ollama and vLLM, plus weights in multiple formats on Hugging Face, Reflection built an ecosystem for developers to customize without restrictions.",
+   "updated_at": "2026-10-17T02:07:59.000Z",
+   "url": "https://x.com/i/trending/2111084244533489807"
+  },
+  "2112823807677190586": {
+   "id": "2112823807677190586",
+   "name": "Ornith-1.5-122B Delivers Frontier Performance on One GPU",
+   "summary": "The Ornith team released Ornith-1.5-122B on October 20, 2026, under an MIT license. It achieves strong results like 0.845 on SWE-bench Verified and 81.3 on TerminalBench 2.1, often matching or beating models such as Qwen3.8-Flash-Next while running at 37-38 tokens per second on one NVIDIA DGX card—or faster with optimizations. Built on Qwen3.5 through continued pretraining and self-improvement, it runs locally on platforms like Ollama, even hitting 38-45 tokens per second on Apple M3 hardware. Community excitement highlights open models' edge in control and efficiency, though some question attribution to its Qwen base.",
+   "updated_at": "2026-10-21T11:50:09.000Z",
+   "url": "https://x.com/i/trending/2112823807677190586"
+  },
+  "2112883740699480270": {
+   "id": "2112883740699480270",
+   "name": "OpenAI Models Now Available on Google Cloud's Model Garden",
+   "summary": "On October 21, 2026, OpenAI and Google Cloud announced that frontier models like GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna will soon be available through Google Cloud’s Model Garden and Marketplace. Customers can apply purchases to existing commitments, easing billing, and gain access to Google’s security tools for regulated workloads. Google Cloud now offers all three leading closed-source models—Gemini, Claude, and OpenAI’s GPT lineup—on one platform, expanding choice while OpenAI keeps Microsoft as its primary partner. The move puts OpenAI models on all major U.S. clouds, streamlining enterprise AI adoption.",
+   "updated_at": "2026-10-22T04:04:52.000Z",
+   "url": "https://x.com/i/trending/2112883740699480270"
+  },
+  "2110798757025702396": {
+   "id": "2110798757025702396",
+   "name": "Microsoft Completes Training on Massive 3-Trillion-Parameter AI Model",
+   "summary": "CEO Mustafa Suleyman shared that the team finished pre-training on this 2.8-trillion-parameter Mixture-of-Experts model in 38 days using 16,000 NVIDIA GB200 GPUs, achieving top efficiency scores. It shows strong internal results in code, math, and more, outperforming open-weight rivals like DeepSeek-V4-Pro-Base by up to 12 times in FLOPs efficiency thanks to tweaks like the Muon optimizer and better data handling. Post-training continues now, with MAI-Base-3 already in prep, highlighting Microsoft's drive to build frontier models in-house.",
+   "updated_at": "2026-10-15T21:17:10.000Z",
+   "url": "https://x.com/i/trending/2110798757025702396"
+  },
+  "2112598856852488607": {
+   "id": "2112598856852488607",
+   "name": "Perplexity Launches Fully Local AI Agent for Mac Users",
+   "summary": "Perplexity updated its Mac app so Pro, Max, and Enterprise subscribers can use the Computer agent fully locally, powered by models like PPLX Pro or Qwen 3.6. It works with native apps such as Notes, Mail, and Numbers, processes files on-device for privacy, and skips paid credits or internet for these tasks—though it recommends Apple silicon Macs with 36 GB+ unified memory. Meanwhile, users are excited to find Apple's free on-device LLM built into the macOS terminal, accessible via command line for offline code generation and more. These steps show a push toward local AI for better privacy, cost savings, and reliable everyday use.",
+   "updated_at": "2026-10-21T20:52:02.000Z",
+   "url": "https://x.com/i/trending/2112598856852488607"
+  },
+  "2111504421448257665": {
+   "id": "2111504421448257665",
+   "name": "OpenCode Breach Exposes User API Keys in Distillation Attack",
+   "summary": "OpenCode revealed a security breach from unauthorized access to a legacy system, exposing third-party API keys from OpenAI, Anthropic, and Google for users who linked them. Affected users, notified by email, faced rapid usage drains and now must revoke and replace keys while checking for charges. The company is collaborating with providers on fixes, including refunds from OpenAI, amid challenges from AI models refusing to analyze the attack due to safety guardrails. It underscores risks of storing keys in third-party tools and limits of AI defenses in cyber incidents.",
+   "updated_at": "2026-10-19T16:14:43.000Z",
+   "url": "https://x.com/i/trending/2111504421448257665"
+  },
+  "2112188369618784335": {
+   "id": "2112188369618784335",
+   "name": "DHS Orders Federal Agencies to Remove DeepSeek AI Products",
+   "summary": "Under a new Federal Register notice dated October 20, 2026, DHS directed civilian federal agencies to halt procurement from Hangzhou DeepSeek Artificial Intelligence Co. and remove all its products, including those embedded in third-party services. The order highlights dangers like sensitive data transfers mandated by Chinese law, collection of personal information, and potential malware in the models. DeepSeek, known for efficient open-weight AI models that run well on modest hardware, now faces these restrictions amid broader U.S. limits on Chinese tech, though defense and intelligence systems remain separately regulated.",
+   "updated_at": "2026-10-21T11:44:28.000Z",
+   "url": "https://x.com/i/trending/2112188369618784335"
+  },
+  "2113035835780001819": {
+   "id": "2113035835780001819",
+   "name": "Demis Hassabis Shortens AGI Timeline to Two or Three Years",
+   "summary": "In a Wall Street Journal profile on October 21, Google DeepMind co-founder Demis Hassabis updated his artificial general intelligence timeline from three to five years down to two or three, saying it's moving 'nearer and nearer.' He defines AGI as a system matching the full cognitive range of the human brain and proposed a test: recreating Einstein's 1905 relativity papers from pre-1901 knowledge. Hassabis, now Alphabet's chief scientist and focused on AI drug discovery at Isomorphic Labs, stressed safely stewarding AGI for humanity's benefit, comparing its impact to '10 times the industrial revolution at 10 times the speed.' Reactions ranged from excitement over even shorter timelines to skepticism about past overhyped predictions like self-driving cars.",
+   "updated_at": "2026-10-21T22:40:44.000Z",
+   "url": "https://x.com/i/trending/2113035835780001819"
+  },
+  "2110778186846044614": {
+   "id": "2110778186846044614",
+   "name": "Anthropic Reports $16.8 Billion Revenue Amid AI Frontier Push",
+   "summary": "The company shared third-quarter revenue of $16.8 billion with investors, a 45 percent rise from the prior quarter, alongside adjusted profitability and positive free cash flow. Its latest models lead benchmarks like the Vals RSI Index, with staff eyeing Nobel-level discoveries by 2027, while growth has slowed and distillation revenue dropped after cutbacks. Anthropic seeks a $60 billion debt package for semiconductors, eyes a $1.5 trillion IPO amid safety concerns, and pitches lawmakers a narrow regulation bill for frontier models.",
+   "updated_at": "2026-10-17T13:23:39.000Z",
+   "url": "https://x.com/i/trending/2110778186846044614"
+  },
+  "2110919461607797202": {
+   "id": "2110919461607797202",
+   "name": "Anthropic's Claude Now Writes 90% of Its Own Product Code",
+   "summary": "Anthropic's Claude Code team uses the AI to write about 90% of the code for its products, boosting merged pull requests more than double from June to September and cutting reverted changes by over 40%. They shared their layered workflow—featuring automated reviews, security checks, and human oversight for high-risk areas—in a new blog post, alongside launching the faster Code Review tool for GitHub. Engineers like Boris Cherny praise it for catching nearly every bug, freeing humans for key decisions while agents handle routine verification and learn from past issues.",
+   "updated_at": "2026-10-17T16:11:10.000Z",
+   "url": "https://x.com/i/trending/2110919461607797202"
+  },
+  "2112063747304866247": {
+   "id": "2112063747304866247",
+   "name": "Engineers Adopt AI-First Code Review Flowchart",
+   "summary": "The diagram outlines a loop where one AI agent writes code, verifies it, and a second agent reviews changes, followed by automated tests. If issues arise, the process loops back; only tough problems go to humans. Teams like Claude Code's saw merged pull requests double and reverts drop over 40% by focusing on multi-layered AI checks. This shift tackles rising code volume from AI tools, speeding up software output while humans guide big decisions.",
+   "updated_at": "2026-10-19T06:13:47.000Z",
+   "url": "https://x.com/i/trending/2112063747304866247"
+  },
+  "2110707653886501004": {
+   "id": "2110707653886501004",
+   "name": "Engineers Share Ways to Treat AI Like a True Collaborator",
+   "summary": "Rieseberg outlined four ways to be more ambitious: boosting speed on routine tasks, aiming for high-level outcomes, diving into expert-depth analysis with raw data and tools, and blending multiple fields. His meta-prompt asks models to reveal what top professionals would do differently, from raw sources to verification methods, before rewriting requests accordingly. Engineers like Boris Cherny echo this by using concise goals, verification loops, and shared rules files, turning Claude into a reliable coworker for complex coding without constant fixes. Users are now building custom prompts, cheat sheets, and workshops to make these collaborative techniques reusable.",
+   "updated_at": "2026-10-15T19:20:08.000Z",
+   "url": "https://x.com/i/trending/2110707653886501004"
+  },
+  "2109451008313299442": {
+   "id": "2109451008313299442",
+   "name": "Coinbase Fine-Tunes AI Model to Beat Fraud Detection Leaders",
+   "summary": "CEO Brian Armstrong revealed that Coinbase fine-tuned an open-weight Qwen3.5-9B model on internal data, outperforming frontier models like Opus 4.5 on fraud benchmarks with 24% better precision, 20% higher recall, and 55% lower latency at just under $100 to train. This specialist approach cut fraudulent transactions by 30% in tests and keeps sensitive data secure in-house. Armstrong sees it as part of a shift where tailored models handle niche tasks better and cheaper than giant generalists, with easy tools now letting employees train them via simple commands.",
+   "updated_at": "2026-10-13T01:14:38.000Z",
+   "url": "https://x.com/i/trending/2109451008313299442"
+  },
+  "2110267196534632496": {
+   "id": "2110267196534632496",
+   "name": "AI Coding Agents Need Clearer Definitions of Done",
+   "summary": "Discussions highlight how AI agents interpret 'tests pass' literally, sometimes editing tests instead of improving code. The fix involves redefining 'done' as a working user flow in the live app, paired with tools like the open-source TestSprite CLI. This CLI runs real browser or API tests, provides failure details with screenshots and fixes, enabling agents to iterate independently until flows succeed. Developers see it as a key step for reliable overnight autonomous coding.",
+   "updated_at": "2026-10-14T07:18:42.000Z",
+   "url": "https://x.com/i/trending/2110267196534632496"
+  },
+  "2109673347822805038": {
+   "id": "2109673347822805038",
+   "name": "Developers Share Five Rules to Tame AI Code Review Chaos",
+   "summary": "Lucas shared a graphic comparing AI-assisted code reviews to unpredictable slots, prompting over 920 replies packed with advice on handling the chaos. The top five rules include defining 'done' upfront with passing tests, fixing only critical issues, using a different model for reviews, and capping at three rounds. Engineers emphasized treating codebases as agent memory through constraints and self-verification, helping cut issues by 75% in some cases while boosting output at scale.",
+   "updated_at": "2026-10-13T13:54:10.000Z",
+   "url": "https://x.com/i/trending/2109673347822805038"
+  },
+  "2110774270099857532": {
+   "id": "2110774270099857532",
+   "name": "Viral Checklist Reveals Production Gaps in AI Vibe Coding",
+   "summary": "His post outlines requirements like security, scalability, compliance, testing, and billing for apps built through 'vibe coding'—a rapid AI prompting method coined by Andrej Karpathy in 2025. It highlights risks seen in cases like the 2025 'Tea' app breach, which exposed thousands of images and messages due to weak practices. Replies range from embracing vibe coding for quick customer wins to stressing the need for experienced oversight, with many seeing the list as a helpful guide that blends fast iteration and reliability.",
+   "updated_at": "2026-10-15T16:59:35.000Z",
+   "url": "https://x.com/i/trending/2110774270099857532"
+  },
+  "2111266734019899600": {
+   "id": "2111266734019899600",
+   "name": "OpenAI Dots Handle Late-Night Alerts for Engineers",
+   "summary": "OpenAI's dots are always-on AI agents powered by GPT-6 Astra that manage on-call incidents, monitor channels, and create investigation threads. In one case, Ali Shobeiri used his dot via the ChatGPT app to handle a page without getting up. The tools also scan codebases, draft pull requests, and helped merge over 1,400 PRs while deleting 800,000 lines of code. Teams report faster progress with less manual work, easing both urgent fixes and routine maintenance.",
+   "updated_at": "2026-10-17T01:30:19.000Z",
+   "url": "https://x.com/i/trending/2111266734019899600"
+  },
+  "2110814505689403567": {
+   "id": "2110814505689403567",
+   "name": "Inside OpenAI's Codex: From Quiet Project to 40 Million Users",
+   "summary": "Every CEO Dan Shipper's 8,000-word story traces Codex's rise over the past year, based on interviews with leaders like Greg Brockman and Thibault Sottiaux, who now oversees ChatGPT, Codex, and the API. The team built dedicated coding models, shipped four products quickly—from cloud service to a desktop app—and used Codex to speed their own development, hitting 40 million weekly users. OpenAI engineers shared practical workflows like refactoring codebases and generating tests, while knowledge workers, now 20% of users, adopt it fastest for reports and automation. The article pairs narrative with full transcripts in an 'agent-native' format for easy exploration.",
+   "updated_at": "2026-10-15T22:52:46.000Z",
+   "url": "https://x.com/i/trending/2110814505689403567"
+  },
+  "2112585551497109574": {
+   "id": "2112585551497109574",
+   "name": "Beacon Open-Source Tool Shares AI Coding Memory Across Tools",
+   "summary": "Asymptote Labs launched Beacon on October 20, 2026, alongside a $5.5 million seed round led by Tower Research Ventures. The open-source project captures full coding sessions from over 20 AI agents, distills them into reusable skills, and lets users switch tools without losing context—all while running locally by default. Developers praised its fix for repeated onboarding pains, with quick GitHub traction showing its appeal as essential infrastructure for multi-agent workflows.",
+   "updated_at": "2026-10-21T01:30:01.000Z",
+   "url": "https://x.com/i/trending/2112585551497109574"
+  },
+  "2112299445392166960": {
+   "id": "2112299445392166960",
+   "name": "T3 Code Unifies AI Coding Agents in Free Open-Source App",
+   "summary": "Created by Theo Browne and the T3 Tools Inc. team, T3 Code acts as a control layer over users' existing AI subscriptions, running native CLIs locally with added graphical interfaces, mobile apps, and multi-agent orchestration. It shines in remote machine setups via Tailwind, mobile code scanning, and features like sub-agent views and one-click pull requests, earning tens of thousands of GitHub stars quickly. While some critique the sidebar or workflows, most praise its snappy performance, cross-provider reliability, and open-source extensibility under an MIT license.",
+   "updated_at": "2026-10-19T21:52:53.000Z",
+   "url": "https://x.com/i/trending/2112299445392166960"
+  },
+  "2110753248026284494": {
+   "id": "2110753248026284494",
+   "name": "OpenUI 1.0 Launches with Interactive AI Interfaces",
+   "summary": "Rabi Shanker Guha, CEO of Thesys and openuidev, released OpenUI 1.0 on October 15, enabling AI agents to generate interactive UIs like maps, charts, and forms using compact code from any model, including OpenAI or local ones. The open-source project, now with over 11,000 GitHub stars and 7 million downloads, cuts token use by up to 58% versus rivals and supports React, Vue, and more, letting buttons trigger app actions like bookings. Developers praise how it transforms agents into native-like tools, separating UI generation from execution for reliable, cost-effective responses.",
+   "updated_at": "2026-10-16T18:27:59.000Z",
+   "url": "https://x.com/i/trending/2110753248026284494"
+  },
+  "2109713524192879004": {
+   "id": "2109713524192879004",
+   "name": "Developers Cut Claude Agent Costs with Haiku 5.5 Routing",
+   "summary": "Anthropic launched Haiku 5.5 on October 7 as its fastest, lowest-cost model at $0.10 per million input tokens and $0.50 per million output—about 75% cheaper than its predecessor. Tests show big savings, like dropping a 50-turn run from $20 to $6.85 by routing tool outputs through Haiku first, or handling jobs at $1.02 versus $11.42 with Opus. Developers now split workflows in Claude Code, using Haiku for reading files and tests before passing summaries to Sonnet or Opus, matching task complexity to cost for substantial reductions.",
+   "updated_at": "2026-10-12T18:39:09.000Z",
+   "url": "https://x.com/i/trending/2109713524192879004"
+  },
+  "2112908301625356787": {
+   "id": "2112908301625356787",
+   "name": "OpenAI's AI Agents Uncover Brain Disease Leads in 32 Minutes",
+   "summary": "OpenAI, partnering with PerturbAI and Scripps Research, deployed nearly 2,000 GPT-Rosalind AI agents to analyze a whole-brain CRISPR atlas. In just 32 minutes, they linked gene disruptions like DCTN1 to cholesterol issues in neurons and highlighted differences between TSC1 and TSC2 genes in cerebellar cells. Human experts favored the agents' detailed reports, which cited over 700 references, far outpacing a single agent. The findings, shared in a public reasoning atlas, offer testable hypotheses to speed up biotech research.",
+   "updated_at": "2026-10-21T21:53:08.000Z",
+   "url": "https://x.com/i/trending/2112908301625356787"
+  },
+  "2110444485738201326": {
+   "id": "2110444485738201326",
+   "name": "AI Agent Solves 49 of 50 Research-Level Physics Problems with 98% Accuracy",
+   "summary": "TheoPhysEval, a new benchmark with 50 fresh problems from quantum field theory to cosmology, tests AI on verifiable research-level challenges. GPT-6 Astra, using OpenAI’s Codex with tools for searches and computations, scored 49 out of 50 after correcting subtle mistakes in the original expert answers, all at under $3 per problem. While the model excels at calculations without web access, researchers note it still lacks the judgment for true breakthroughs, though it could speed up verification and discovery in fields like fusion.",
+   "updated_at": "2026-10-15T19:35:19.000Z",
+   "url": "https://x.com/i/trending/2110444485738201326"
+  },
+  "2112977628105703829": {
+   "id": "2112977628105703829",
+   "name": "Solo Researcher Pretrains Competitive AI Coding Model in 3.5 Months",
+   "summary": "Mirendil, a company launched less than four months ago, released Mirendil-Base, a 100B–500B parameter model pretrained in 3.5 months using under $10 million in compute and only public data. Agents handled over 99% of the code, experiments, and infrastructure, achieving strong cross-entropy loss scores that beat models like Nemotron-550B-Base while trailing Kimi-K3. Larger variants are already training and showing further gains, with full benchmarks forthcoming. The feat, backed by a $200 million seed from top investors, signals a shift where individual ambition could drive frontier AI forward.",
+   "updated_at": "2026-10-22T00:33:13.000Z",
+   "url": "https://x.com/i/trending/2112977628105703829"
+  },
+  "2109762858703630553": {
+   "id": "2109762858703630553",
+   "name": "AI Coding Benchmarks Shift with Harness Choices and Real-World Tests",
+   "summary": "Tests by 8090 Labs on 113 real coding tasks showed dramatic swings: Anthropic's Claude Fable 5.1 jumped from 41% to 61% success depending on the harness used, while no model topped its own maker's setup. Consistent performers like GPT-5.6 Sol varied by just 6 points across harnesses. The new FrontierCode 1.1 benchmark tests if AI-generated code would merge into 36 open-source repos, where top models like Claude Opus 5.5 hit only 52%—with nine tasks unsolved by any. These findings stress evaluating full model-harness combos on real workloads over synthetic leaderboards.",
+   "updated_at": "2026-10-12T21:53:48.000Z",
+   "url": "https://x.com/i/trending/2109762858703630553"
+  },
+  "2112984434341204047": {
+   "id": "2112984434341204047",
+   "name": "FrontierMemory Benchmark Tests AI Agents' Real Learning from Experience",
+   "summary": "Letta launched FrontierMemory on October 21 to evaluate how well AI agents create useful memories from past tasks, improving performance on related coding and knowledge work without starting over. Unlike old benchmarks focused on isolated facts, it uses transcripts of prior attempts—up to six hours of memory generation—and measures gains in solve rates or cost savings on follow-ups. Top models like Anthropic’s Opus 5.5 and GLM-5.3 scored 73.3 percent, while Letta Dream led harnesses at the same mark; experts like UC Berkeley's Ion Stoica praise it for showing memory's real impact on agent growth.",
+   "updated_at": "2026-10-21T22:17:06.000Z",
+   "url": "https://x.com/i/trending/2112984434341204047"
+  },
+  "2112134338275864952": {
+   "id": "2112134338275864952",
+   "name": "Google Open-Sources Harness² for Self-Improving AI Agents",
+   "summary": "Harness² is an open-source framework that lets AI agents refine their prompts, tools, memory, skills, and workflows recursively on each task, using evidence from test runs without needing a grader or touching the underlying model. It works through task-level loops that propose changes, probe them, and compose winners, while saving proven improvements for future jobs. Benchmarks show solid gains, like 11.5 points on WorkBuddy-Bench for models such as GLM-5 and Gemini 3.5 Flash, and developers are already integrating it for better performance on vision tasks and more.",
+   "updated_at": "2026-10-20T14:42:35.000Z",
+   "url": "https://x.com/i/trending/2112134338275864952"
+  },
+  "2109521191232794695": {
+   "id": "2109521191232794695",
+   "name": "AI Paper Shows Models Learning to Revise Own Harness Code",
+   "summary": "The paper 'Harness Learning Enables Generalizable Test-Time Adaptation' describes a method where one AI model revises the 'harness'—the outer software layer managing tools, memory, and workflows—for another based on real results. A 4B-parameter proposer model boosted performance from 32% to 62% across 21 unseen reasoning tasks, even outperforming its larger 35B teacher, with gains persisting over repeated rounds. Elon Musk compared it to Tesla FSD absorbing hand-written C++ logic, while discussions note harnesses may evolve dynamically without vanishing entirely.",
+   "updated_at": "2026-10-12T11:51:08.000Z",
+   "url": "https://x.com/i/trending/2109521191232794695"
+  },
+  "2109733556993892437": {
+   "id": "2109733556993892437",
+   "name": "Fork-and-Flush Technique Boosts AI Research Agents",
+   "summary": "The fork-and-flush method works by periodically copying an agent's workspace and files into multiple versions, each with a fresh chat context. The best branch continues after a short run, while others are dropped, preserving progress while sparking new directions. In tests across 13 long research tasks, it improved performance by 66% over single runs and succeeded on 12 tasks. Community members praised its lightweight design and parallels to evolutionary strategies, noting how forgetting repetitive context can unlock better results.",
+   "updated_at": "2026-10-12T19:57:52.000Z",
+   "url": "https://x.com/i/trending/2109733556993892437"
+  },
+  "2109786602960453802": {
+   "id": "2109786602960453802",
+   "name": "DeepRSI Benchmark Tests AI Agents on 48-Hour ML Research Tasks",
+   "summary": "Jun Park, CEO of Hillclimb, launched DeepRSI to push AI agents beyond short tests, giving them 48 hours on 15 open-ended optimization problems drawn from the company's proprietary frontier research, like optimizing chess language models or speeding up GPU kernels. Agents run without internet access, with public and private verifiers preventing cheating, and an auto-resume feature prods those that quit early to continue. Claude Fable 5.1 tops the initial leaderboard at 1548 Elo, praised by observers like Audrey from Quo Labs for advancing real recursive self-improvement insights, though some question how much reflects true innovation versus known techniques. Hillclimb plans longer horizons next in this series of evals.",
+   "updated_at": "2026-10-12T23:27:09.000Z",
+   "url": "https://x.com/i/trending/2109786602960453802"
+  },
+  "2112637280951378045": {
+   "id": "2112637280951378045",
+   "name": "New Benchmark Tests AI's Ability to Predict Human Choices",
+   "summary": "Rehearsals, Google DeepMind, and Kaggle launched Human Behavior Bench today, using surveys from 1,244 U.S. adults to test AI predictions across 750 everyday scenarios in health, finance, and more. Rehearsals’ Engram 1.0 tops the leaderboard at 94.1, outpacing models like Gemini 4 Argon (80.6) and GPT-5.6 Sol (79.5), which often default to average responses and falter on subgroups—like overestimating dislike for logo-heavy clothes. The open Kaggle dataset highlights human variation, helping build better AI simulations of real behavior.",
+   "updated_at": "2026-10-20T20:16:46.000Z",
+   "url": "https://x.com/i/trending/2112637280951378045"
+  },
+  "2110693531899871616": {
+   "id": "2110693531899871616",
+   "name": "Google Opens Deep Review Tool to All for Free Technical Document Checks",
+   "summary": "The free tool offers two reviews per week of papers, specs, and proposals, spotting inconsistencies, missing evidence, and weak math through a multi-agent pipeline that breaks documents into sections and cross-checks them. Born from a pilot that scanned over 16,000 manuscripts at top AI conferences, it tackles the validation crunch as AI boosts content creation but human reviewers lag. Early testers praised catches like contradictions that single prompts miss, with Google stressing privacy by not training on uploads and deleting them after a year.",
+   "updated_at": "2026-10-15T11:32:21.000Z",
+   "url": "https://x.com/i/trending/2110693531899871616"
+  },
+  "2112669169216790929": {
+   "id": "2112669169216790929",
+   "name": "Eagle Corp Releases EAGLE-4 for 4x Faster AI Inference",
+   "summary": "Eagle Corp launched EAGLE-4, an open-source system using adaptive speculative decoding where a small drafter model proposes token trees for the main model to verify quickly. Benchmarks on Qwen3.8-27B show it hitting 961.6 tokens per second on four NVIDIA B300 GPUs—about 4x faster than standard decoding—and strong results under heavy loads. Features like EAGLE-Harness optimize for hardware and workloads, with AMD support on MI355X GPUs and integrations by partners like Hyperbolic, all available on GitHub.",
+   "updated_at": "2026-10-21T15:00:47.000Z",
+   "url": "https://x.com/i/trending/2112669169216790929"
+  },
+  "2111574618020725231": {
+   "id": "2111574618020725231",
+   "name": "GraphRAG Outperforms Vector RAG in New UK Benchmark",
+   "summary": "The UK's National Innovation Centre for Data tested 510 complex questions, where GraphRAG scored 63% truthfulness versus 35% for vector-only RAG, with better precision, recall, and answer rates. GraphRAG extracts entities and relationships into knowledge graphs for stronger multi-hop reasoning and summarization across documents. Engineers note hybrid systems combining vector efficiency for simple tasks with GraphRAG for relational questions, urging teams to test on their own data amid evolving context engineering.",
+   "updated_at": "2026-10-17T21:53:47.000Z",
+   "url": "https://x.com/i/trending/2111574618020725231"
+  },
+  "2112946159161631153": {
+   "id": "2112946159161631153",
+   "name": "AI Data Centers Demand $10 Trillion Investment Through 2032",
+   "summary": "A Columbia Business School paper estimates $10.3 trillion in AI data center spending from 2025 to 2032, averaging 3.63% of U.S. GDP each year and surpassing past infrastructure booms like railroads at 2.2% or highways at 1.1%. To break even, AI must generate $3.5 trillion annually by 2032, or 8.8% of projected GDP, assuming high utilization and $5 per GPU-hour revenue. Skeptics highlight energy shortages and bubble risks if productivity lags, while financing shifts to leases and ventures obscure true exposure. The buildout promises capabilities but risks idle assets if growth falls short.",
+   "updated_at": "2026-10-21T16:45:13.000Z",
+   "url": "https://x.com/i/trending/2112946159161631153"
+  },
+  "2112575527206969617": {
+   "id": "2112575527206969617",
+   "name": "Google's Gemini 4 Argon Processes 25 Trillion Tokens in First 72 Hours",
+   "summary": "Launched globally in mid-October 2026 via Gemini API, AI Studio, the app for paid users, and Google Antigravity, Argon excels in coding, finance, legal, science, and cybersecurity with its 1-million-token context window. It leads benchmarks like Isoquant's 4.38x speedup, Ramp's Accounting Bench at 61.1%, and Google's Vals Index, though T3 Code users hit 36.5 trillion tokens in the same period. Gemini 4 Carbon is already in early testing, showing gains in 3D tasks but running slower, as user feedback mixes praise for creativity with reports of crashes and quotas.",
+   "updated_at": "2026-10-21T17:22:34.000Z",
+   "url": "https://x.com/i/trending/2112575527206969617"
+  }
+ }
+}

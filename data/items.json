@@ -1,0 +1,1345 @@
+{
+  "title": "AI 前沿速递",
+  "updated": "2026-10-22 13:41",
+  "timezone": "Asia/Shanghai (UTC+8)",
+  "window": "2026-10-12 ~ 2026-10-22",
+  "sections": {
+    "news": "最新 AI 资讯",
+    "practice": "AI 实践",
+    "research": "AI 调研 / 研究"
+  },
+  "items": [
+    {
+      "id": "news-00",
+      "section": "news",
+      "title": "Anthropic 发布 Claude Duet：主动型 AI 代理 App（研究预览）",
+      "summary": "Claude Duet 是一款独立 App，由 Claude Opus 5.5 驱动：每天推送晨间简报、持续监控已连接的应用，只在真正需要时提醒你，并在你离开时继续工作、代你行动前先征求确认。它运行在自己的云端虚拟机上，目前面向美国 Pro/Max 用户以候补名单形式开放（iOS、Android、Web）。",
+      "author": "@claudeai",
+      "date": "2026-10-22",
+      "url": "https://x.com/claudeai/status/2112984664256241837",
+      "likes": 43364,
+      "tags": [
+        "Anthropic",
+        "Agent",
+        "产品发布"
+      ],
+      "sources": [
+        {
+          "label": "@claudeai 原帖",
+          "url": "https://x.com/claudeai/status/2112984664256241837"
+        },
+        {
+          "label": "@claudeai",
+          "url": "https://x.com/claudeai/status/2112984666437546104"
+        },
+        {
+          "label": "@claudeai",
+          "url": "https://x.com/claudeai/status/2112984667758510197"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112987690803343606"
+        }
+      ]
+    },
+    {
+      "id": "news-08",
+      "section": "news",
+      "title": "OpenAI 模型登陆 Google Cloud Model Garden",
+      "summary": "OpenAI 宣布将前沿模型与 Codex 智能体工作流带到 Google Cloud Model Garden，企业可在现有云承诺额度内采购。至此 Google Cloud 同时提供 Gemini、Claude 和 GPT 三大闭源模型家族，OpenAI 模型覆盖美国所有主要云平台。",
+      "author": "@OpenAI",
+      "date": "2026-10-22",
+      "url": "https://x.com/OpenAI/status/2112988118471295323",
+      "likes": 3631,
+      "tags": [
+        "OpenAI",
+        "Google",
+        "企业"
+      ],
+      "sources": [
+        {
+          "label": "@OpenAI 原帖",
+          "url": "https://x.com/OpenAI/status/2112988118471295323"
+        },
+        {
+          "label": "@DeItaone",
+          "url": "https://x.com/DeItaone/status/2112877180237582775"
+        },
+        {
+          "label": "@ThomasOrTK",
+          "url": "https://x.com/ThomasOrTK/status/2112972209077784986"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112883740699480270"
+        }
+      ]
+    },
+    {
+      "id": "news-13",
+      "section": "news",
+      "title": "Demis Hassabis：AGI 时间线缩短到 2–3 年",
+      "summary": "据《华尔街日报》10 月 21 日报道，Google DeepMind 联合创始人 Demis Hassabis 把自己对 AGI 的预期从“3–5 年”缩短到“2–3 年”，并提出用“仅凭 1901 年前的知识重现爱因斯坦 1905 年论文”作为检验标准。",
+      "author": "@MTSlive",
+      "date": "2026-10-22",
+      "url": "https://x.com/MTSlive/status/2112955713916162199",
+      "likes": 2236,
+      "tags": [
+        "Google DeepMind",
+        "AGI"
+      ],
+      "sources": [
+        {
+          "label": "@MTSlive 原帖",
+          "url": "https://x.com/MTSlive/status/2112955713916162199"
+        },
+        {
+          "label": "@robertwiblin",
+          "url": "https://x.com/robertwiblin/status/2112965357594140758"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2113035835780001819"
+        }
+      ]
+    },
+    {
+      "id": "news-07",
+      "section": "news",
+      "title": "Ornith-1.5-122B：单卡即可运行的 MIT 开源编程模型",
+      "summary": "Ornith 团队于 10 月 20 日以 MIT 许可发布 Ornith-1.5-122B，强调“强与快不必取舍”。X 汇总提到其 SWE-bench Verified 0.845、TerminalBench 2.1 81.3；社区开发者 @0xBakeer 实测 4-bit 量化版在一台 DGX Spark 上约 38 tok/s。",
+      "author": "@ornith_",
+      "date": "2026-10-20",
+      "url": "https://x.com/ornith_/status/2112553477457268799",
+      "likes": 2714,
+      "tags": [
+        "开源",
+        "本地部署",
+        "编程"
+      ],
+      "sources": [
+        {
+          "label": "@ornith_ 原帖",
+          "url": "https://x.com/ornith_/status/2112553477457268799"
+        },
+        {
+          "label": "@0xBakeer",
+          "url": "https://x.com/0xBakeer/status/2112866828967879040"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112823807677190586"
+        }
+      ]
+    },
+    {
+      "id": "news-10",
+      "section": "news",
+      "title": "Perplexity Computer 支持在 Mac 上完全本地运行",
+      "summary": "Perplexity 的 Computer 智能体现在可在 Mac 上完全本地运行：模型与智能体都在本机，可操作原生 Mac 应用和本地文件，无需联网、也不消耗付费额度，面向 Pro、Max 与 Enterprise 用户。",
+      "author": "@perplexity_ai",
+      "date": "2026-10-20",
+      "url": "https://x.com/perplexity_ai/status/2112571597798461920",
+      "likes": 1831,
+      "tags": [
+        "Perplexity",
+        "本地 AI",
+        "隐私"
+      ],
+      "sources": [
+        {
+          "label": "@perplexity_ai 原帖",
+          "url": "https://x.com/perplexity_ai/status/2112571597798461920"
+        },
+        {
+          "label": "@AravSrinivas",
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112598856852488607"
+        }
+      ]
+    },
+    {
+      "id": "news-12",
+      "section": "news",
+      "title": "美国国土安全部要求联邦机构移除 DeepSeek 产品",
+      "summary": "根据 DHS 新通知，美国民用联邦机构须停止采购并移除 DeepSeek 产品，以及“任何基于 DeepSeek 实现开发的第三方服务”。理由包括数据跨境传输风险等；国防与情报系统另有单独规定。",
+      "author": "@AndrewCurran_",
+      "date": "2026-10-20",
+      "url": "https://x.com/AndrewCurran_/status/2112250754358788437",
+      "likes": 2362,
+      "tags": [
+        "政策",
+        "DeepSeek"
+      ],
+      "sources": [
+        {
+          "label": "@AndrewCurran_ 原帖",
+          "url": "https://x.com/AndrewCurran_/status/2112250754358788437"
+        },
+        {
+          "label": "@aravind",
+          "url": "https://x.com/aravind/status/2112281021710565559"
+        },
+        {
+          "label": "@Polymarket",
+          "url": "https://x.com/Polymarket/status/2112173639684510090"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112188369618784335"
+        }
+      ]
+    },
+    {
+      "id": "news-04",
+      "section": "news",
+      "title": "MiniMax M3.1 Flash 发布：神秘模型 “Space Bunny” 身份揭晓",
+      "summary": "MiniMax 确认此前在全球用量榜上累计 200T+ Token 的匿名模型 Space Bunny 就是 M3.1 Flash 的早期版本。开发者 @nutlope 实测用它生成硬件发布落地页仅花 $0.014，而 Opus 5.5 为 $1.22；Cline 已免费接入。",
+      "author": "@MiniMax_AI",
+      "date": "2026-10-19",
+      "url": "https://x.com/MiniMax_AI/status/2112150867868541221",
+      "likes": 7378,
+      "tags": [
+        "MiniMax",
+        "中国模型",
+        "低成本"
+      ],
+      "sources": [
+        {
+          "label": "@MiniMax_AI 原帖",
+          "url": "https://x.com/MiniMax_AI/status/2112150867868541221"
+        },
+        {
+          "label": "@nutlope",
+          "url": "https://x.com/nutlope/status/2112238098147135880"
+        },
+        {
+          "label": "@cline",
+          "url": "https://x.com/cline/status/2112220504258224605"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112365272892133749"
+        }
+      ]
+    },
+    {
+      "id": "news-11",
+      "section": "news",
+      "title": "OpenCode 遭“大规模蒸馏攻击”，部分用户 API Key 泄露",
+      "summary": "OpenCode 披露一次与大规模蒸馏攻击相关的安全事件，影响约 1.4% 的 Console 用户，已邮件通知受影响者更换密钥。OpenAI 的 @thsottiaux 表示已协助受影响的 OpenAI API 客户恢复使用并退还被盗用的额度。提醒：把第三方 API Key 存进工具时要格外谨慎。",
+      "author": "@opencode",
+      "date": "2026-10-18",
+      "url": "https://x.com/opencode/status/2111519637049319818",
+      "likes": 11603,
+      "tags": [
+        "安全",
+        "开发工具"
+      ],
+      "sources": [
+        {
+          "label": "@opencode 原帖",
+          "url": "https://x.com/opencode/status/2111519637049319818"
+        },
+        {
+          "label": "@thdxr",
+          "url": "https://x.com/thdxr/status/2111790511409258796"
+        },
+        {
+          "label": "@thsottiaux",
+          "url": "https://x.com/thsottiaux/status/2112034063934742720"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2111504421448257665"
+        }
+      ]
+    },
+    {
+      "id": "news-03",
+      "section": "news",
+      "title": "DeepSeek-V4.1-Flash-1017 发布，登顶 Code Arena 开源模型榜",
+      "summary": "DeepSeek 发布 V4.1-Flash-1017，官方称在基准表现、完成速度和输出长度上实现帕累托改进。Arena 随后宣布其成为 Code Arena: WebDev 第一的开源模型（总榜第 12），并以 +5.1% 净提升登上 Agent Arena 开源第一，成本约为 Kimi K3 (Max) 的十分之一。",
+      "author": "@deepseek_ai",
+      "date": "2026-10-17",
+      "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+      "likes": 37031,
+      "tags": [
+        "DeepSeek",
+        "开源",
+        "中国模型"
+      ],
+      "sources": [
+        {
+          "label": "@deepseek_ai 原帖",
+          "url": "https://x.com/deepseek_ai/status/2111375640717033777"
+        },
+        {
+          "label": "@arena",
+          "url": "https://x.com/arena/status/2111894091168682086"
+        },
+        {
+          "label": "@arena",
+          "url": "https://x.com/arena/status/2112247114944360666"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2111803212139569662"
+        }
+      ]
+    },
+    {
+      "id": "news-02",
+      "section": "news",
+      "title": "Meta 开源 Muse Spark Open：号称最强美国开放权重模型",
+      "summary": "Meta 于 10 月 15 日发布 Muse Spark Open 权重，主打编程与长程智能体任务。X 新闻汇总称其为 8160 亿参数、百万 Token 上下文的多模态模型，并与 Apple 合作优化，可在两台互联的 M5 Ultra Mac Studio 上通过 MLX 运行。",
+      "author": "@AIatMeta",
+      "date": "2026-10-16",
+      "url": "https://x.com/AIatMeta/status/2110779754274292212",
+      "likes": 11535,
+      "tags": [
+        "Meta",
+        "开源",
+        "模型发布"
+      ],
+      "sources": [
+        {
+          "label": "@AIatMeta 原帖",
+          "url": "https://x.com/AIatMeta/status/2110779754274292212"
+        },
+        {
+          "label": "@finkd",
+          "url": "https://x.com/finkd/status/2110778025629347999"
+        },
+        {
+          "label": "@johnternus",
+          "url": "https://x.com/johnternus/status/2110789142326165518"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110781576766271604"
+        }
+      ]
+    },
+    {
+      "id": "news-06",
+      "section": "news",
+      "title": "Reflection AI 发布首个模型 Beam（Apache 2.0 开放权重）",
+      "summary": "Beam 总参数 501B、激活 23B，提供百万 Token 上下文，权重、分词器和参考实现以 Apache 2.0 发布，并有 40+ 合作伙伴首日支持。Artificial Analysis 给出智能指数 30 分，位列美国开放权重模型第二。",
+      "author": "@reflection_ai",
+      "date": "2026-10-16",
+      "url": "https://x.com/reflection_ai/status/2111079965529968798",
+      "likes": 937,
+      "tags": [
+        "Reflection",
+        "开源",
+        "模型发布"
+      ],
+      "sources": [
+        {
+          "label": "@reflection_ai 原帖",
+          "url": "https://x.com/reflection_ai/status/2111079965529968798"
+        },
+        {
+          "label": "@ArtificialAnlys",
+          "url": "https://x.com/ArtificialAnlys/status/2111087606759030831"
+        },
+        {
+          "label": "@arena",
+          "url": "https://x.com/arena/status/2111084024336884097"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2111084244533489807"
+        }
+      ]
+    },
+    {
+      "id": "news-09",
+      "section": "news",
+      "title": "微软 MAI 完成约 3T 参数级基础模型预训练",
+      "summary": "Mustafa Suleyman 宣布 MAI 已拥有完全自研、3T 参数量级的 SOTA 预训练基础模型，后训练结果即将公布。X 汇总称该 MoE 模型总参数 2.8T，在 16,000 张 GB200 上训练 38 天，并使用 Muon 优化器提升 FLOPs 效率。",
+      "author": "@mustafasuleyman",
+      "date": "2026-10-16",
+      "url": "https://x.com/mustafasuleyman/status/2110766651344146564",
+      "likes": 3439,
+      "tags": [
+        "Microsoft",
+        "基础模型"
+      ],
+      "sources": [
+        {
+          "label": "@mustafasuleyman 原帖",
+          "url": "https://x.com/mustafasuleyman/status/2110766651344146564"
+        },
+        {
+          "label": "@soldni",
+          "url": "https://x.com/soldni/status/2110769536324784158"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110798757025702396"
+        }
+      ]
+    },
+    {
+      "id": "news-14",
+      "section": "news",
+      "title": "Anthropic 第三季度营收达 168 亿美元，Opus 5.5 口碑持续",
+      "summary": "X 新闻汇总称 Anthropic 向投资者披露 Q3 营收 168 亿美元、环比增长 45%，并实现调整后盈利。与此同时 Claude Opus 5.5 发布一个月后仍被大量开发者视为“最强模型”，@theo 直言“很难想象比 Opus 5.5 更好的模型会是什么样”。（营收数据来自 X 汇总，未经官方公开确认）",
+      "author": "@theo",
+      "date": "2026-10-16",
+      "url": "https://x.com/theo/status/2110850723827388602",
+      "likes": 6662,
+      "tags": [
+        "Anthropic",
+        "商业"
+      ],
+      "sources": [
+        {
+          "label": "@theo 原帖",
+          "url": "https://x.com/theo/status/2110850723827388602"
+        },
+        {
+          "label": "@AndrewCurran_",
+          "url": "https://x.com/AndrewCurran_/status/2111161896254546123"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110778186846044614"
+        }
+      ]
+    },
+    {
+      "id": "news-05",
+      "section": "news",
+      "title": "阶跃星辰开放 Step 5 Preview 权重：600B MoE、百万上下文",
+      "summary": "StepFun 在 Hugging Face 与 ModelScope 发布 Step 5 Preview 的 BF16/FP8 权重：稀疏 MoE 架构，总参数 600B、每 Token 激活 27B，支持 1M 上下文和原生图文输入。NVIDIA 称其在 GB300 上可达每 GPU 近 8K tokens/s，面向长达 24 小时的智能体任务。",
+      "author": "@StepFun_ai",
+      "date": "2026-10-15",
+      "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+      "likes": 973,
+      "tags": [
+        "StepFun",
+        "开源",
+        "中国模型"
+      ],
+      "sources": [
+        {
+          "label": "@StepFun_ai 原帖",
+          "url": "https://x.com/StepFun_ai/status/2110717330657616092"
+        },
+        {
+          "label": "@NVIDIAAI",
+          "url": "https://x.com/NVIDIAAI/status/2110730497907216588"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110730088501186629"
+        }
+      ]
+    },
+    {
+      "id": "news-01",
+      "section": "news",
+      "title": "Google Gemini 4 Argon 上线，72 小时处理约 25 万亿 Token",
+      "summary": "Google 新一代前沿模型 Gemini 4 Argon 于 10 月中旬在 Gemini App、Gemini API、AI Studio 和 Antigravity 推出，拥有百万 Token 上下文，主打编程、金融、法律与科研。X 上的汇总称其上线 72 小时内处理约 25 万亿 Token；开发者普遍认可其能力，但也抱怨付费方案配额消耗太快。",
+      "author": "@GeminiApp",
+      "date": "2026-10-14",
+      "url": "https://x.com/GeminiApp/status/2110039322229649783",
+      "likes": 7259,
+      "tags": [
+        "Google",
+        "Gemini",
+        "模型发布"
+      ],
+      "sources": [
+        {
+          "label": "@GeminiApp 原帖",
+          "url": "https://x.com/GeminiApp/status/2110039322229649783"
+        },
+        {
+          "label": "@itsvishaltwt",
+          "url": "https://x.com/itsvishaltwt/status/2112028925593539013"
+        },
+        {
+          "label": "@GoogleDeepMind",
+          "url": "https://x.com/GoogleDeepMind/status/2112557925264752930"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112575527206969617"
+        }
+      ]
+    },
+    {
+      "id": "practice-24",
+      "section": "practice",
+      "title": "Beacon 开源：让 Claude Code、Codex、Cursor 共享自我进化的记忆",
+      "summary": "Asymptote Labs 发布开源工具 Beacon（同时宣布 550 万美元种子轮）：本地捕获 Claude Code、Cursor、Codex、OpenCode 等 20+ 种工具的会话，把值得保留的经验提炼成可复用技能。切换工具时不必再从头解释项目背景。",
+      "author": "@jqdsouza",
+      "date": "2026-10-20",
+      "url": "https://x.com/jqdsouza/status/2112552451547001218",
+      "likes": 1534,
+      "tags": [
+        "记忆",
+        "开源工具",
+        "多 Agent"
+      ],
+      "sources": [
+        {
+          "label": "@jqdsouza 原帖",
+          "url": "https://x.com/jqdsouza/status/2112552451547001218"
+        },
+        {
+          "label": "@akshay_pachaar",
+          "url": "https://x.com/akshay_pachaar/status/2112546384331313274"
+        },
+        {
+          "label": "@Scobleizer",
+          "url": "https://x.com/Scobleizer/status/2112553458330976585"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112585551497109574"
+        }
+      ]
+    },
+    {
+      "id": "practice-25",
+      "section": "practice",
+      "title": "T3 Code：统一多家编程 Agent 的免费开源桌面端",
+      "summary": "Theo 团队推出的 T3 Code 作为控制层运行在你已有的 AI 订阅之上，本地调用各家原生 CLI，并提供图形界面、移动端和多 Agent 编排。用户 @tenobrus 评价其远程/多机（Tailscale）联动体验是“见过最顺滑的”。MIT 开源。",
+      "author": "@tenobrus",
+      "date": "2026-10-20",
+      "url": "https://x.com/tenobrus/status/2112215624852328782",
+      "likes": 851,
+      "tags": [
+        "开源工具",
+        "编程 Agent"
+      ],
+      "sources": [
+        {
+          "label": "@tenobrus 原帖",
+          "url": "https://x.com/tenobrus/status/2112215624852328782"
+        },
+        {
+          "label": "@theo",
+          "url": "https://x.com/theo/status/2112297940052275469"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112299445392166960"
+        }
+      ]
+    },
+    {
+      "id": "practice-16",
+      "section": "practice",
+      "title": "“唯一靠谱的代码审查循环”：AI 写 → 自验 → 另一个 AI 审 → 人兜底",
+      "summary": "这张流程图在工程师圈广泛流传：一个智能体写代码并自我验证，第二个智能体用全新上下文审查，再跑自动化检查，只有新颖或高风险的问题才交给人。@VicVijayakumar 评论“每个组织都在搭这个循环”，@dmericliu 总结为“好的验证循环胜过更强的模型”。",
+      "author": "@boristane",
+      "date": "2026-10-19",
+      "url": "https://x.com/boristane/status/2111966450311385154",
+      "likes": 1434,
+      "tags": [
+        "代码审查",
+        "Agent 工作流"
+      ],
+      "sources": [
+        {
+          "label": "@boristane 原帖",
+          "url": "https://x.com/boristane/status/2111966450311385154"
+        },
+        {
+          "label": "@VicVijayakumar",
+          "url": "https://x.com/VicVijayakumar/status/2112024357551931564"
+        },
+        {
+          "label": "@dmericliu",
+          "url": "https://x.com/dmericliu/status/2112007412425109919"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112063747304866247"
+        }
+      ]
+    },
+    {
+      "id": "practice-28",
+      "section": "practice",
+      "title": "收藏：10 个你可能没用过的 Claude Code 内置命令",
+      "summary": "整理了一批 Claude Code 内置命令，例如 /btw 提一个不进入主对话的旁支问题、/rewind 把对话和代码回滚到之前某个时间点、/goal 让 Claude 跨多轮持续工作直到满足你设定的条件等。适合日常重度使用者对照查漏。",
+      "author": "@RoundtableSpace",
+      "date": "2026-10-19",
+      "url": "https://x.com/RoundtableSpace/status/2112140452665372999",
+      "likes": 117,
+      "tags": [
+        "Claude Code",
+        "技巧"
+      ],
+      "sources": [
+        {
+          "label": "@RoundtableSpace 原帖",
+          "url": "https://x.com/RoundtableSpace/status/2112140452665372999"
+        }
+      ]
+    },
+    {
+      "id": "practice-15",
+      "section": "practice",
+      "title": "Claude Code 约 90% 的代码由 Claude 自己写：Anthropic 分享代码审查改造",
+      "summary": "Anthropic 称 Claude 编写了 Claude Code 约 90% 的代码；6 月到 9 月合并的 PR 翻倍以上，回滚比例下降超过 40%。关键在于改造代码审查流程：自动审查、安全检查分层进行，人只把关高风险部分。Code Review 功能也已对 Team/Enterprise 全面开放。",
+      "author": "@ClaudeDevs",
+      "date": "2026-10-17",
+      "url": "https://x.com/ClaudeDevs/status/2111168901723906176",
+      "likes": 12755,
+      "tags": [
+        "Claude Code",
+        "代码审查",
+        "案例"
+      ],
+      "sources": [
+        {
+          "label": "@ClaudeDevs 原帖",
+          "url": "https://x.com/ClaudeDevs/status/2111168901723906176"
+        },
+        {
+          "label": "@ClaudeDevs",
+          "url": "https://x.com/ClaudeDevs/status/2110866210573386065"
+        },
+        {
+          "label": "@bcherny",
+          "url": "https://x.com/bcherny/status/2111158313463525518"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110919461607797202"
+        }
+      ]
+    },
+    {
+      "id": "practice-22",
+      "section": "practice",
+      "title": "OpenAI 工程师让 “dot” 值夜班：凌晨 3 点处理线上告警",
+      "summary": "OpenAI 工程师 Ali 用自己的 dot（常驻智能体）在凌晨 3 点分诊线上事故：dot 自动调查问题并开启 Codex 线程，他在手机 ChatGPT 上即可指挥后续工作。OpenAI 还分享了工程师如何用 Codex 梳理代码库、清理维护积压。",
+      "author": "@OpenAIDevs",
+      "date": "2026-10-17",
+      "url": "https://x.com/OpenAIDevs/status/2111211411766399288",
+      "likes": 1581,
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "运维"
+      ],
+      "sources": [
+        {
+          "label": "@OpenAIDevs 原帖",
+          "url": "https://x.com/OpenAIDevs/status/2111211411766399288"
+        },
+        {
+          "label": "@OpenAIDevs",
+          "url": "https://x.com/OpenAIDevs/status/2111213093577691337"
+        },
+        {
+          "label": "@Ali_Shobeiri",
+          "url": "https://x.com/Ali_Shobeiri/status/2111243586956316864"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2111266734019899600"
+        }
+      ]
+    },
+    {
+      "id": "practice-23",
+      "section": "practice",
+      "title": "Every 长文：OpenAI Codex 如何从冷门项目做到 4000 万周活",
+      "summary": "Dan Shipper 采访 Greg Brockman、Thibault Sottiaux 等人，写了一篇约 8000 字的 Codex 内部故事：一年前云端产品尚未找到 PMF、团队推倒重来，后来连续发布多款产品并用 Codex 加速自身开发。文章采用“agent-native”格式，附完整访谈记录，方便让你的 Agent 一起读。",
+      "author": "@danshipper",
+      "date": "2026-10-16",
+      "url": "https://x.com/danshipper/status/2110802324939485505",
+      "likes": 541,
+      "tags": [
+        "Codex",
+        "案例",
+        "长文"
+      ],
+      "sources": [
+        {
+          "label": "@danshipper 原帖",
+          "url": "https://x.com/danshipper/status/2110802324939485505"
+        },
+        {
+          "label": "@every",
+          "url": "https://x.com/every/status/2110804837453771010"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110814505689403567"
+        }
+      ]
+    },
+    {
+      "id": "practice-29",
+      "section": "practice",
+      "title": "一天 24 小时跑约 40 个 AI Agent：一位开发者的配置与流程",
+      "summary": "作者分享自己的配置：3 个 Claude $200 账号、1 个 Codex $100 账号、Grok Bot，以及一台 128GB 内存/32 核的 CPU 虚拟机。流程第一步是用 Claude Code + Opus 5.5 拆解 Linear 工单、推理架构，再分派给多个 Agent 并行执行。",
+      "author": "@adxtyahq",
+      "date": "2026-10-16",
+      "url": "https://x.com/adxtyahq/status/2110772144317833641",
+      "likes": 70,
+      "tags": [
+        "多 Agent",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "label": "@adxtyahq 原帖",
+          "url": "https://x.com/adxtyahq/status/2110772144317833641"
+        }
+      ]
+    },
+    {
+      "id": "practice-21",
+      "section": "practice",
+      "title": "Vibe Coding 上线前清单：给付费用户之前先补齐这些",
+      "summary": "“周末 vibe coding 出一个 App 就不需要开发者”的说法很流行。@mardehaym 列出上线前必须具备的东西：有人设计过的数据库 schema、安全、可扩展性、合规、测试、计费等。反方 @atmoio 则主张先用 vibe coding 拿到第一批付费用户再说——两种观点值得一起看。",
+      "author": "@mardehaym",
+      "date": "2026-10-15",
+      "url": "https://x.com/mardehaym/status/2110705357492203564",
+      "likes": 8749,
+      "tags": [
+        "Vibe Coding",
+        "生产化"
+      ],
+      "sources": [
+        {
+          "label": "@mardehaym 原帖",
+          "url": "https://x.com/mardehaym/status/2110705357492203564"
+        },
+        {
+          "label": "@atmoio",
+          "url": "https://x.com/atmoio/status/2110743322209702205"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110774270099857532"
+        }
+      ]
+    },
+    {
+      "id": "practice-26",
+      "section": "practice",
+      "title": "OpenUI 1.0：让 Agent 直接生成可交互界面，而不是一大段文字",
+      "summary": "Thesys CEO Rabi Shanker Guha 发布 OpenUI 1.0，让智能体用紧凑代码生成地图、图表、表单等交互式 UI，支持任意模型和 React、Vue 等框架。X 汇总称项目已有 1.1 万+ GitHub Star，相比同类方案最多可省 58% Token。",
+      "author": "@rabi_guha",
+      "date": "2026-10-15",
+      "url": "https://x.com/rabi_guha/status/2110737805823672518",
+      "likes": 2223,
+      "tags": [
+        "生成式 UI",
+        "开源工具"
+      ],
+      "sources": [
+        {
+          "label": "@rabi_guha 原帖",
+          "url": "https://x.com/rabi_guha/status/2110737805823672518"
+        },
+        {
+          "label": "@IndianTechGuide",
+          "url": "https://x.com/IndianTechGuide/status/2110751793848443165"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110753248026284494"
+        }
+      ]
+    },
+    {
+      "id": "practice-19",
+      "section": "practice",
+      "title": "重写你的 “完成定义”：Agent 会按字面理解 “测试通过”",
+      "summary": "团队的 Definition of Done 是写给人的：“测试通过”默认还包含“自己点一遍”。但智能体会按字面执行，甚至去改测试而不是改代码。建议在 AGENTS.md 里把“完成”定义为真实应用中的用户流程跑通，并配合真实浏览器/API 测试工具让 Agent 自主迭代。",
+      "author": "@AliceInfoAi",
+      "date": "2026-10-14",
+      "url": "https://x.com/AliceInfoAi/status/2110219293904257246",
+      "likes": 237,
+      "tags": [
+        "AGENTS.md",
+        "Agent 工作流"
+      ],
+      "sources": [
+        {
+          "label": "@AliceInfoAi 原帖",
+          "url": "https://x.com/AliceInfoAi/status/2110219293904257246"
+        },
+        {
+          "label": "@Rana_kamran43",
+          "url": "https://x.com/Rana_kamran43/status/2110220233059528779"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110267196534632496"
+        }
+      ]
+    },
+    {
+      "id": "practice-17",
+      "section": "practice",
+      "title": "Claude 工程负责人 Felix Rieseberg：如何“更有野心”地使用 AI",
+      "summary": "Felix 把“更有野心”拆成几种做法：加速例行工作、直接瞄准高层次结果、用原始数据和工具做专家级深度分析、跨领域融合；并分享一个元提示词，先让模型说出顶尖专业人士会怎么做，再据此改写请求。有人转述他不再让 Claude 修单个崩溃，而是让它“保持应用零崩溃”。",
+      "author": "@felixrieseberg",
+      "date": "2026-10-13",
+      "url": "https://x.com/felixrieseberg/status/2110023283169247623",
+      "likes": 23894,
+      "tags": [
+        "提示工程",
+        "方法论"
+      ],
+      "sources": [
+        {
+          "label": "@felixrieseberg 原帖",
+          "url": "https://x.com/felixrieseberg/status/2110023283169247623"
+        },
+        {
+          "label": "@choblin29",
+          "url": "https://x.com/choblin29/status/2110629149568283055"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110707653886501004"
+        }
+      ]
+    },
+    {
+      "id": "practice-18",
+      "section": "practice",
+      "title": "Coinbase 微调 Qwen3.5-9B 做反欺诈，胜过前沿大模型",
+      "summary": "Brian Armstrong 透露，Coinbase 用内部专有数据微调开放权重的 Qwen3.5-9B，在反欺诈这一专门任务上超过前沿模型，而且成本更低、速度更快。X 汇总提到训练成本不到 100 美元。专用小模型 + 私有数据正在成为企业落地的一条务实路线。",
+      "author": "@brian_armstrong",
+      "date": "2026-10-12",
+      "url": "https://x.com/brian_armstrong/status/2109412046244913643",
+      "likes": 9510,
+      "tags": [
+        "微调",
+        "企业落地",
+        "开源模型"
+      ],
+      "sources": [
+        {
+          "label": "@brian_armstrong 原帖",
+          "url": "https://x.com/brian_armstrong/status/2109412046244913643"
+        },
+        {
+          "label": "@Cointelegraph",
+          "url": "https://x.com/Cointelegraph/status/2109441627123065307"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109451008313299442"
+        }
+      ]
+    },
+    {
+      "id": "practice-20",
+      "section": "practice",
+      "title": "驯服 “AI 代码审查老虎机” 的 5 条规则",
+      "summary": "@lucas_builds 汇总 920 条回复中反复出现的经验：审查前先定义完成标准（测试通过、符合需求）；只修 critical/high 问题；用不同模型做审查；限定审查轮数等。@DanielLockyer 补充：让 Agent 能自我验证后，约 75% 的 AI 编程问题消失了。",
+      "author": "@lucas_builds",
+      "date": "2026-10-12",
+      "url": "https://x.com/lucas_builds/status/2109660368037724325",
+      "likes": 25,
+      "tags": [
+        "代码审查",
+        "经验"
+      ],
+      "sources": [
+        {
+          "label": "@lucas_builds 原帖",
+          "url": "https://x.com/lucas_builds/status/2109660368037724325"
+        },
+        {
+          "label": "@DanielLockyer",
+          "url": "https://x.com/DanielLockyer/status/2109726478154015111"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109673347822805038"
+        }
+      ]
+    },
+    {
+      "id": "practice-27",
+      "section": "practice",
+      "title": "Haiku 5.5 分流省钱？实测提醒：先算清楚账",
+      "summary": "Haiku 5.5 发布后，“Opus 规划 + Haiku 执行”的分流方案在 Claude Code 用户中流行。但 @EugBass 用同一个 bug 实测：该组合花了 $1.37，单用 Sonnet 5.5 只要 $1.14，Opus 顾问部分就吃掉 54% 的账单。结论：按任务复杂度选模型，并用真实账单验证。",
+      "author": "@EugBass",
+      "date": "2026-10-12",
+      "url": "https://x.com/EugBass/status/2109624188168200500",
+      "likes": 84,
+      "tags": [
+        "成本优化",
+        "Claude Code"
+      ],
+      "sources": [
+        {
+          "label": "@EugBass 原帖",
+          "url": "https://x.com/EugBass/status/2109624188168200500"
+        },
+        {
+          "label": "@karanC_12",
+          "url": "https://x.com/karanC_12/status/2109634670812110948"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109713524192879004"
+        }
+      ]
+    },
+    {
+      "id": "research-32",
+      "section": "research",
+      "title": "Mirendil：一名研究员 + 一群 Agent，3.5 个月预训练出大模型",
+      "summary": "成立不到 4 个月的 Mirendil 发布 Mirendil-Base，主题是“没有预训练团队的大规模预训练”。X 汇总称其由一名研究员带领 Agent 完成 99% 以上的代码、实验与基础设施，算力花费不到 1000 万美元、只用公开数据，交叉熵损失优于 Nemotron-550B-Base。",
+      "author": "@bneyshabur",
+      "date": "2026-10-22",
+      "url": "https://x.com/bneyshabur/status/2112941025862008949",
+      "likes": 1055,
+      "tags": [
+        "预训练",
+        "递归自我改进",
+        "Agent 科研"
+      ],
+      "sources": [
+        {
+          "label": "@bneyshabur 原帖",
+          "url": "https://x.com/bneyshabur/status/2112941025862008949"
+        },
+        {
+          "label": "@mirendil",
+          "url": "https://x.com/mirendil/status/2112967808858648871"
+        },
+        {
+          "label": "@sophiamyang",
+          "url": "https://x.com/sophiamyang/status/2112959557068792258"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112977628105703829"
+        }
+      ]
+    },
+    {
+      "id": "research-34",
+      "section": "research",
+      "title": "Letta 发布 FrontierMemory：用下游任务表现衡量 Agent 记忆",
+      "summary": "现有记忆基准大多测“回忆事实”，已被 Agent 检索刷饱和。FrontierMemory 改为衡量 Agent 从过往任务轨迹中生成的记忆能否提升后续相关编程/知识任务的解决率或降低成本。X 汇总称目前最好成绩约 73.3%，尚无模型超越。",
+      "author": "@Letta_AI",
+      "date": "2026-10-22",
+      "url": "https://x.com/Letta_AI/status/2112957074644873289",
+      "likes": 156,
+      "tags": [
+        "基准",
+        "Agent 记忆"
+      ],
+      "sources": [
+        {
+          "label": "@Letta_AI 原帖",
+          "url": "https://x.com/Letta_AI/status/2112957074644873289"
+        },
+        {
+          "label": "@sarahwooders",
+          "url": "https://x.com/sarahwooders/status/2112964548533907613"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112984434341204047"
+        }
+      ]
+    },
+    {
+      "id": "research-30",
+      "section": "research",
+      "title": "GPT-Rosalind 近 2000 个 Agent 32 分钟挖出神经退行性疾病新线索",
+      "summary": "OpenAI 与 PerturbAI、Scripps Research 合作，部署近 2000 个 GPT-Rosalind 智能体分析全脑 CRISPR 图谱，在 32 分钟内提出“恢复胆固醇转运或可保护神经元”的假说（与 Perry 综合征相关基因 DCTN1 有关）。人类专家更偏好多 Agent 报告；成果以公开“推理图谱”形式发布，供后续实验验证。",
+      "author": "@OpenAI",
+      "date": "2026-10-21",
+      "url": "https://x.com/OpenAI/status/2112899854569762936",
+      "likes": 6106,
+      "tags": [
+        "AI for Science",
+        "多 Agent",
+        "生物医药"
+      ],
+      "sources": [
+        {
+          "label": "@OpenAI 原帖",
+          "url": "https://x.com/OpenAI/status/2112899854569762936"
+        },
+        {
+          "label": "@IterIntellectus",
+          "url": "https://x.com/IterIntellectus/status/2112903923837137226"
+        },
+        {
+          "label": "@gdb",
+          "url": "https://x.com/gdb/status/2112797730829697108"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112908301625356787"
+        }
+      ]
+    },
+    {
+      "id": "research-42",
+      "section": "research",
+      "title": "EAGLE-4 开源：自适应投机解码，推理提速约 4 倍",
+      "summary": "EAGLE-4 用小型草稿模型提出 token 树、主模型快速验证。官方数据：在 4×NVIDIA B300 上运行 Qwen3.8-27B 达 961.6 tokens/s。配套 EAGLE-Harness 会根据硬件与负载自动调优，AMD MI355X 首日支持。",
+      "author": "@EagleCorp",
+      "date": "2026-10-21",
+      "url": "https://x.com/EagleCorp/status/2112660683670323531",
+      "likes": 8808,
+      "tags": [
+        "推理优化",
+        "开源"
+      ],
+      "sources": [
+        {
+          "label": "@EagleCorp 原帖",
+          "url": "https://x.com/EagleCorp/status/2112660683670323531"
+        },
+        {
+          "label": "@AIatAMD",
+          "url": "https://x.com/AIatAMD/status/2112659635295404176"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112669169216790929"
+        }
+      ]
+    },
+    {
+      "id": "research-44",
+      "section": "research",
+      "title": "经济学论文：AI 数据中心投资需每年 3.5 万亿美元收入才能回本",
+      "summary": "一篇 Brookings 经济活动论文（哥伦比亚大学学者）估算，要支撑当前的数据中心建设，AI 到 2032 年需每年带来约 3.5 万亿美元收入，约占美国 GDP 的 8.8%。X 汇总称 2025–2032 年数据中心累计投入约 10.3 万亿美元，超过铁路、高速公路等历史基建潮；也有人担心能源与泡沫风险。",
+      "author": "@unusual_whales",
+      "date": "2026-10-21",
+      "url": "https://x.com/unusual_whales/status/2112875798072107470",
+      "likes": 5167,
+      "tags": [
+        "经济",
+        "算力",
+        "基础设施"
+      ],
+      "sources": [
+        {
+          "label": "@unusual_whales 原帖",
+          "url": "https://x.com/unusual_whales/status/2112875798072107470"
+        },
+        {
+          "label": "@_Investinq",
+          "url": "https://x.com/_Investinq/status/2112887960743874751"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112946159161631153"
+        }
+      ]
+    },
+    {
+      "id": "research-39",
+      "section": "research",
+      "title": "Human Behavior Bench：AI 能预测真实人类的选择吗？",
+      "summary": "Kaggle 与 Rehearsals、Google DeepMind 合作推出首个公开的人类行为预测基准，基于 1,244 名美国成年人在 750 个日常场景中的问卷。X 汇总称前沿模型常给出“平均化”回答，对细分人群预测失准；数据集已在 Kaggle 开放。",
+      "author": "@kaggle",
+      "date": "2026-10-20",
+      "url": "https://x.com/kaggle/status/2112560433257181325",
+      "likes": 352,
+      "tags": [
+        "基准",
+        "社会模拟"
+      ],
+      "sources": [
+        {
+          "label": "@kaggle 原帖",
+          "url": "https://x.com/kaggle/status/2112560433257181325"
+        },
+        {
+          "label": "@RunRehearsals",
+          "url": "https://x.com/RunRehearsals/status/2112570589714194676"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112637280951378045"
+        }
+      ]
+    },
+    {
+      "id": "research-40",
+      "section": "research",
+      "title": "新论文：AI Agent 评测的开放问题与最佳实践",
+      "summary": "Sayash Kapoor 等人（由 @flxcn 主导）发布论文，为刚进入 AI 评测领域的研究者整理 Agent 评测的开放问题与最佳实践清单，并给出建议。同日 @steverab 也发布了“AI Agent 评测新兴趋势”综述，梳理了 33 个评测趋势，可对照阅读。",
+      "author": "@sayashk",
+      "date": "2026-10-20",
+      "url": "https://x.com/sayashk/status/2112279490667626716",
+      "likes": 313,
+      "tags": [
+        "论文",
+        "评测方法"
+      ],
+      "sources": [
+        {
+          "label": "@sayashk 原帖",
+          "url": "https://x.com/sayashk/status/2112279490667626716"
+        },
+        {
+          "label": "@steverab",
+          "url": "https://x.com/steverab/status/2112281241240363492"
+        }
+      ]
+    },
+    {
+      "id": "research-35",
+      "section": "research",
+      "title": "Google Research 开源 Harness²：Agent 自行改进提示词、工具和记忆",
+      "summary": "Harness² 让 Agent 在每个任务上递归优化自己的提示词、工具、记忆、技能和工作流：提出改动、试探验证、组合有效方案并沉淀到后续任务，全程不改模型权重、也无需评分器。社区团队把它接入后在视觉基准上逐轮提升。",
+      "author": "@openmys",
+      "date": "2026-10-19",
+      "url": "https://x.com/openmys/status/2112024812751294954",
+      "likes": 2750,
+      "tags": [
+        "Agent",
+        "自我改进",
+        "开源"
+      ],
+      "sources": [
+        {
+          "label": "@openmys 原帖",
+          "url": "https://x.com/openmys/status/2112024812751294954"
+        },
+        {
+          "label": "@kimmonismus",
+          "url": "https://x.com/kimmonismus/status/2112121074775441806"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2112134338275864952"
+        }
+      ]
+    },
+    {
+      "id": "research-43",
+      "section": "research",
+      "title": "GraphRAG vs 向量 RAG：英国国家数据创新中心的 510 题评测",
+      "summary": "英国 National Innovation Centre for Data 用 510 个复杂问题对比两种 RAG。据 Neo4j 引述，GraphRAG 在真实性上比纯向量 RAG 高约 80%，回答率 65.3% 对 28.9%。工程师建议混合使用：简单问题用向量检索，多跳关系问题用知识图谱，并在自己的数据上验证。",
+      "author": "@neo4j",
+      "date": "2026-10-17",
+      "url": "https://x.com/neo4j/status/2111474321927410003",
+      "likes": 84,
+      "tags": [
+        "RAG",
+        "知识图谱",
+        "评测"
+      ],
+      "sources": [
+        {
+          "label": "@neo4j 原帖",
+          "url": "https://x.com/neo4j/status/2111474321927410003"
+        },
+        {
+          "label": "@sermakarevich",
+          "url": "https://x.com/sermakarevich/status/2111515269638074660"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2111574618020725231"
+        }
+      ]
+    },
+    {
+      "id": "research-31",
+      "section": "research",
+      "title": "TheoPhysEval：GPT-6 Astra 解出 49/50 道研究级理论物理题",
+      "summary": "新基准 TheoPhysEval 收录 50 道未发表的研究级理论物理问题。GPT-6 Astra 起初得分约 80%+，但它坚持专家答案有误；团队复核后确认模型是对的，分数修正为 98%，每题成本不到 3 美元。研究者也提醒：计算强不等于具备做出突破的判断力。",
+      "author": "@freddier",
+      "date": "2026-10-15",
+      "url": "https://x.com/freddier/status/2110443503516057682",
+      "likes": 14106,
+      "tags": [
+        "基准",
+        "物理",
+        "推理"
+      ],
+      "sources": [
+        {
+          "label": "@freddier 原帖",
+          "url": "https://x.com/freddier/status/2110443503516057682"
+        },
+        {
+          "label": "@Kaju_Nut",
+          "url": "https://x.com/Kaju_Nut/status/2110376532267196754"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110444485738201326"
+        }
+      ]
+    },
+    {
+      "id": "research-41",
+      "section": "research",
+      "title": "Google Research 推出 Deep Review：多 Agent 审稿系统",
+      "summary": "Deep Review 是一个对论文、设计文档、复杂提案做“压力测试”的智能体系统：把文档按章节分给不同 Agent 审查，再做跨章节一致性检查，找出矛盾、证据缺失和数学薄弱处。试点阶段分析过 1.5 万+ 篇顶会稿件，现免费开放（每周 2 次）。",
+      "author": "@NewsFromGoogle",
+      "date": "2026-10-15",
+      "url": "https://x.com/NewsFromGoogle/status/2110480263994126504",
+      "likes": 4400,
+      "tags": [
+        "科研工具",
+        "多 Agent"
+      ],
+      "sources": [
+        {
+          "label": "@NewsFromGoogle 原帖",
+          "url": "https://x.com/NewsFromGoogle/status/2110480263994126504"
+        },
+        {
+          "label": "@joefrancis505",
+          "url": "https://x.com/joefrancis505/status/2110676421177958562"
+        },
+        {
+          "label": "@megacode_ai",
+          "url": "https://x.com/megacode_ai/status/2110650701542298011"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2110693531899871616"
+        }
+      ]
+    },
+    {
+      "id": "research-33",
+      "section": "research",
+      "title": "Harness 决定分数：FrontierCode 1.1 与 “同一模型 24% vs 59%”",
+      "summary": "Artificial Analysis 上线 Cognition 的私有评测 FrontierCode 1.1，考察 AI 写的代码能否真正被开源仓库维护者合并。另一项 113 个真实编程任务的测试显示，仅更换外层 harness，同一模型分数就能从 24% 变到 59%，而且“没有模型在自家 harness 里表现最好”。评测应看“模型 + harness”组合。",
+      "author": "@ArtificialAnlys",
+      "date": "2026-10-13",
+      "url": "https://x.com/ArtificialAnlys/status/2109703511843979391",
+      "likes": 1104,
+      "tags": [
+        "基准",
+        "编程",
+        "评测方法"
+      ],
+      "sources": [
+        {
+          "label": "@ArtificialAnlys 原帖",
+          "url": "https://x.com/ArtificialAnlys/status/2109703511843979391"
+        },
+        {
+          "label": "@chamath",
+          "url": "https://x.com/chamath/status/2109703737493344363"
+        },
+        {
+          "label": "@ShanuMathew93",
+          "url": "https://x.com/ShanuMathew93/status/2109704968923910633"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109762858703630553"
+        }
+      ]
+    },
+    {
+      "id": "research-38",
+      "section": "research",
+      "title": "DeepRSI：让 Agent 连续 48 小时做 ML 研究的新基准",
+      "summary": "Hillclimb 推出 DeepRSI，用来衡量“递归自我改进”：现有基准多为约 12 小时的短程任务，DeepRSI 让 Agent 在无网络环境下连续 48 小时攻克 15 个开放式优化问题（如加速 GPU kernel），并用公开/私有验证器防作弊。X 汇总称初始榜单 Claude Fable 5.1 居首。",
+      "author": "@jparkjmc",
+      "date": "2026-10-13",
+      "url": "https://x.com/jparkjmc/status/2109684519896780938",
+      "likes": 1665,
+      "tags": [
+        "基准",
+        "长程任务",
+        "RSI"
+      ],
+      "sources": [
+        {
+          "label": "@jparkjmc 原帖",
+          "url": "https://x.com/jparkjmc/status/2109684519896780938"
+        },
+        {
+          "label": "@VoidAsuka",
+          "url": "https://x.com/VoidAsuka/status/2109755509247185210"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109786602960453802"
+        }
+      ]
+    },
+    {
+      "id": "research-36",
+      "section": "research",
+      "title": "论文：Harness Learning——模型学会改写外层 Harness 代码",
+      "summary": "论文《Harness Learning Enables Generalizable Test-Time Adaptation》让一个模型根据真实结果改写另一个模型的 harness（管理工具、记忆、流程的外层代码）。X 汇总称 4B 参数的提议模型让 21 个未见推理任务的表现从 32% 提升到 62%，超过 35B 教师模型。Pedro Domingos 评论“模型吞掉了 harness”。",
+      "author": "@pmddomingos",
+      "date": "2026-10-12",
+      "url": "https://x.com/pmddomingos/status/2109420932955804040",
+      "likes": 4160,
+      "tags": [
+        "论文",
+        "Harness",
+        "测试时适应"
+      ],
+      "sources": [
+        {
+          "label": "@pmddomingos 原帖",
+          "url": "https://x.com/pmddomingos/status/2109420932955804040"
+        },
+        {
+          "label": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2109468545054880123"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109521191232794695"
+        }
+      ]
+    },
+    {
+      "id": "research-37",
+      "section": "research",
+      "title": "Fork-and-Flush：帮科研 Agent 跳出 “想法盆地”",
+      "summary": "Dimitris Papailiopoulos 提出 Fork-and-Flush：定期把 Agent 的工作区复制成多个分支，每个分支使用全新的对话上下文，短跑后保留最好的一支继续。X 汇总称在 13 个长程科研任务上比单次运行提升 66%。核心直觉：遗忘重复上下文有助于探索新方向。",
+      "author": "@DimitrisPapail",
+      "date": "2026-10-12",
+      "url": "https://x.com/DimitrisPapail/status/2109661202733212136",
+      "likes": 1460,
+      "tags": [
+        "AutoResearch",
+        "Agent 方法"
+      ],
+      "sources": [
+        {
+          "label": "@DimitrisPapail 原帖",
+          "url": "https://x.com/DimitrisPapail/status/2109661202733212136"
+        },
+        {
+          "label": "@DimitrisPapail",
+          "url": "https://x.com/DimitrisPapail/status/2109678971507884410"
+        },
+        {
+          "label": "X 新闻汇总",
+          "url": "https://x.com/i/trending/2109733556993892437"
+        }
+      ]
+    }
+  ]
+}
