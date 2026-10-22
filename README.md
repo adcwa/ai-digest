@@ -55,3 +55,7 @@ npx vercel --prod
 - 所有条目均来自 X 公开帖子及 X 新闻汇总（`x.com/i/trending/...`，由 Grok 生成，可能有误），请以原帖为准。
 - 摘要中标注“X 汇总称”的数字来自 X 新闻汇总，未经独立核实。
 - 点赞数为抓取时的快照。
+
+## 部署 / Deployment
+
+推送到 `main` 分支后由 Vercel 自动部署：https://ai-digest-wheat.vercel.app
